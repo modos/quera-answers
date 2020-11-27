@@ -37,4 +37,11 @@
 <td><a href="https://gist.github.com/modos/465aed391f26d01771f320908cf19bb7">جواب</td>  
 </tr>
 
+<tr>
+<td>مسابقه ی آسان</td>
+<td>2439</td>
+<td><a href="https://quera.ir/problemset/contest/2439/%D8%B3%D8%A4%D8%A7%D9%84-%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87%DB%8C-%D8%A2%D8%B3%D8%A7%D9%86">سوال</td>
+<td><a href="https://gist.github.com/modos/eb9c0a70ed06f0c377a46d6b0b7ec3de">جواب</td>  
+</tr>
+
 </table>
