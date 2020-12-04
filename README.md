@@ -44,4 +44,11 @@
 <td><a href="https://gist.github.com/modos/eb9c0a70ed06f0c377a46d6b0b7ec3de">جواب</td>  
 </tr>
 
+<tr>
+<td>جمع بزرگان</td>
+<td>2551</td>
+<td><a href="https://quera.ir/problemset/contest/2551/%D8%B3%D8%A4%D8%A7%D9%84-%D8%AC%D9%85%D8%B9-%D8%A8%D8%B2%D8%B1%DA%AF%D8%A7%D9%86">سوال</td>
+<td><a href="https://gist.github.com/modos/a8ed02e0078072540065fd06a76a252e">جواب</td>  
+</tr>
+
 </table>
