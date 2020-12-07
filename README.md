@@ -51,4 +51,11 @@
 <td><a href="https://gist.github.com/modos/a8ed02e0078072540065fd06a76a252e">جواب</td>  
 </tr>
 
+<tr>
+<td>شطرنج حرفه ای</td>
+<td>2636</td>
+<td><a href="https://quera.ir/problemset/contest/2636/%D8%B3%D8%A4%D8%A7%D9%84-%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%AD%D8%B1%D9%81%D9%87%D8%A7%DB%8C">سوال</td>
+<td><a href="https://gist.github.com/modos/8219ebb98c6cba51abe5dfb7cee10345">جواب</td>  
+</tr>
+
 </table>
