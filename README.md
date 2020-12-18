@@ -59,7 +59,7 @@
 </tr>
 
 <tr>
-<td>تست بینایی/td>
+<td>تست بینایی</td>
 <td>2659</td>
 <td><a href="https://quera.ir/problemset/contest/2659/%D8%B3%D8%A4%D8%A7%D9%84-%D8%AA%D8%B3%D8%AA-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C">سوال</td>
 <td><a href="https://gist.github.com/modos/8f00df7c8475a960a6375a2620a8e054">جواب</td>  
