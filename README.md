@@ -65,4 +65,11 @@
 <td><a href="https://gist.github.com/modos/8f00df7c8475a960a6375a2620a8e054">جواب</td>  
 </tr>
 
+<tr>
+<td>یک سوال ساده</td>
+<td>2885</td>
+<td><a href="https://quera.ir/problemset/contest/2885/%D8%B3%D8%A4%D8%A7%D9%84-%DB%8C%DA%A9-%D8%B3%D9%88%D8%A7%D9%84-%D8%B3%D8%A7%D8%AF%D9%87">سوال</td>
+<td><a href="https://gist.github.com/modos/0c7a265a68dbf728550c9f3d6cc2beef">جواب</td>  
+</tr>
+
 </table>
