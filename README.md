@@ -72,4 +72,11 @@
 <td><a href="https://gist.github.com/modos/0c7a265a68dbf728550c9f3d6cc2beef">جواب</td>  
 </tr>
 
+<tr>
+<td>یک ساعت</td>
+<td>2886</td>
+<td><a href="https://quera.ir/problemset/contest/2886/%D8%B3%D8%A4%D8%A7%D9%84-%DB%8C%DA%A9-%D8%B3%D8%A7%D8%B9%D8%AA">سوال</td>
+<td><a href="https://gist.github.com/modos/b6572eb0c110ff16bca174bc2e3370bd">جواب</td>  
+</tr>
+
 </table>
