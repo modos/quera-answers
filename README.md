@@ -79,4 +79,11 @@
 <td><a href="https://gist.github.com/modos/c14609d451eb501febfa9674bd867f9e">جواب</td>  
 </tr>
 
+<tr>
+<td>ساده تر</td>
+<td>3403</td>
+<td><a href="https://quera.ir/problemset/contest/3403/%D8%B3%D8%A4%D8%A7%D9%84-%D8%B3%D8%A7%D8%AF%D9%87-%D8%AA%D8%B1">سوال</td>
+<td><a href="https://gist.github.com/modos/509d4cc9c1f3abbe51f7ac2daa8de272">جواب</td>  
+</tr>
+
 </table>
