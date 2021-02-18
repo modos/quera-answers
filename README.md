@@ -93,4 +93,11 @@
 <td><a href="https://gist.github.com/modos/ef5f599cc8b0dbffa32b60c74807f1e8">جواب</td>  
 </tr>
 
+<tr>
+<td>چاپ برعکس</td>
+<td>3405</td>
+<td><a href="https://quera.ir/problemset/contest/3405/%D8%B3%D8%A4%D8%A7%D9%84-%DA%86%D8%A7%D9%BE-%D8%A8%D8%B1%D8%B9%DA%A9%D8%B3">سوال</td>
+<td><a href="https://gist.github.com/modos/4f9086f3d8280d94dcebf4c6deea4b3d">جواب</td>  
+</tr>
+
 </table>
