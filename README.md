@@ -100,4 +100,11 @@
 <td><a href="https://gist.github.com/modos/4f9086f3d8280d94dcebf4c6deea4b3d">جواب</td>  
 </tr>
 
+<tr>
+<td>جدول ضرب گنده</td>
+<td>3409</td>
+<td><a href="https://quera.ir/problemset/contest/3409/%D8%B3%D8%A4%D8%A7%D9%84-%D8%AC%D8%AF%D9%88%D9%84-%D8%B6%D8%B1%D8%A8-%DA%AF%D9%86%D8%AF%D9%87">سوال</td>
+<td><a href="https://gist.github.com/modos/cc0c0042a113e663b8b2086fe10a6a25">جواب</td>  
+</tr>
+
 </table>
