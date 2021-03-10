@@ -107,4 +107,11 @@
 <td><a href="https://gist.github.com/modos/61374f292279ccda4e27f060553d90d6">جواب</td>  
 </tr>
 
+<tr>
+<td>یخدارچی</td>
+<td>3429</td>
+<td><a href="https://quera.ir/problemset/contest/3429/%D8%B3%D8%A4%D8%A7%D9%84-%DB%8C%D8%AE%D8%AF%D8%A7%D8%B1%DA%86%DB%8C">سوال</td>
+<td><a href="https://gist.github.com/modos/e1a649adc3c409a7ffc33adcb45f2abf">جواب</td>  
+</tr>
+
 </table>
