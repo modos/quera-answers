@@ -114,4 +114,11 @@
 <td><a href="https://gist.github.com/modos/2f7cc66d126f228b228dd4c03603637a">جواب</td>  
 </tr>
 
+<tr>
+<td>آسمان شکر آباد</td>
+<td>6082</td>
+<td><a href="https://quera.ir/problemset/contest/6082/%D8%B3%D8%A4%D8%A7%D9%84-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%B4%DA%A9%D8%B1-%D8%A2%D8%A8%D8%A7%D8%AF">سوال</td>
+<td><a href="https://gist.github.com/modos/221ac6f7940fae8329af3d3eb6e46939">جواب</td>  
+</tr>
+
 </table>
