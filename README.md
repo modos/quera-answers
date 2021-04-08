@@ -121,4 +121,11 @@
 <td><a href="https://gist.github.com/modos/221ac6f7940fae8329af3d3eb6e46939">جواب</td>  
 </tr>
 
+<tr>
+<td>کمک به کاپی</td>
+<td>8838</td>
+<td><a href="https://quera.ir/problemset/contest/8838/%D8%B3%D8%A4%D8%A7%D9%84-%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%DA%A9%D8%A7%D9%BE%DB%8C">سوال</td>
+<td><a href="https://gist.github.com/modos/b7fc2a136518bf900832e7ca9ad111dc">جواب</td>  
+</tr>
+
 </table>
