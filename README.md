@@ -128,4 +128,11 @@
 <td><a href="https://gist.github.com/modos/b7fc2a136518bf900832e7ca9ad111dc">جواب</td>  
 </tr>
 
+<tr>
+<td>مجید، میلاد، رشته سازی</td>
+<td>9110</td>
+<td><a href="https://quera.ir/problemset/contest/9110/%D8%B3%D8%A4%D8%A7%D9%84-%D9%85%D8%AC%DB%8C%D8%AF-%D9%85%DB%8C%D9%84%D8%A7%D8%AF-%D8%B1%D8%B4%D8%AA%D9%87%D8%B3%D8%A7%D8%B2%DB%8C">سوال</td>
+<td><a href="https://gist.github.com/modos/7b6b2367d4d13e17fa713fcd35c08fb2">جواب</td>  
+</tr>
+
 </table>
