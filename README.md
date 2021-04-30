@@ -135,4 +135,11 @@
 <td><a href="https://gist.github.com/modos/7b6b2367d4d13e17fa713fcd35c08fb2">جواب</td>  
 </tr>
 
+<tr>
+<td>سیکل گرفتن در برره</td>
+<td>10166</td>
+<td><a href="https://quera.ir/problemset/contest/10166/%D8%B3%D8%A4%D8%A7%D9%84-%D8%B3%DB%8C%DA%A9%D9%84-%DA%AF%D8%B1%D9%81%D8%AA%D9%86-%D8%AF%D8%B1-%D8%A8%D8%B1%D8%B1%D9%87">سوال</td>
+<td><a href="https://gist.github.com/modos/ac599ed88b4875b36633534db4a9fbf0">جواب</td>  
+</tr>
+
 </table>
