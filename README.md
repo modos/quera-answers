@@ -142,4 +142,11 @@
 <td><a href="https://gist.github.com/modos/ac599ed88b4875b36633534db4a9fbf0">جواب</td>  
 </tr>
 
+<tr>
+<td>مشق امشب باقر</td>
+<td>10230</td>
+<td><a href="https://quera.ir/problemset/contest/10230/%D8%B3%D8%A4%D8%A7%D9%84-%D9%85%D8%B4%D9%82-%D8%A7%D9%85%D8%B4%D8%A8-%D8%A8%D8%A7%D9%82%D8%B1">سوال</td>
+<td><a href="https://gist.github.com/modos/a535d7fa6b3c0517460113bcfcbb7a05">جواب</td>  
+</tr>
+
 </table>
