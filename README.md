@@ -149,4 +149,11 @@
 <td><a href="https://gist.github.com/modos/a535d7fa6b3c0517460113bcfcbb7a05">جواب</td>  
 </tr>
 
+<tr>
+<td>خُب باقر سرما خورده</td>
+<td>10231</td>
+<td><a href="https://quera.ir/problemset/contest/10231/%D8%B3%D8%A4%D8%A7%D9%84-%D8%AE%D8%A8-%D8%A8%D8%A7%D9%82%D8%B1-%D8%B3%D8%B1%D9%85%D8%A7-%D8%AE%D9%88%D8%B1%D8%AF%D9%87">سوال</td>
+<td><a href="https://gist.github.com/modos/0438282e17421439a03d72ab32f099d4">جواب</td>  
+</tr>
+
 </table>
