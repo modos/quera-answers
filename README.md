@@ -169,5 +169,12 @@
 <td><a href="https://quera.ir/problemset/contest/17675/%D8%B3%D8%A4%D8%A7%D9%84-%D8%B1%D8%B4%D8%AA%D9%87-%D9%81%DB%8C%D8%A8%D9%88%D9%86%D8%A7%DA%86%DB%8C">سوال</td>
 <td><a href="https://gist.github.com/modos/a946c517e1b4c021a68828391d7a7890">جواب</td>  
 </tr>
+  
+<tr>
+<td>رژیم سخت</td>
+<td>20256</td>
+<td><a href="https://quera.ir/problemset/contest/20256/%D8%B3%D8%A4%D8%A7%D9%84-%D8%B1%DA%98%DB%8C%D9%85-%D8%B3%D8%AE%D8%AA">سوال</td>
+<td><a href="https://gist.github.com/modos/f290966b3ce9a884e5a350259b2c02bf">جواب</td>  
+</tr>  
 
 </table>
