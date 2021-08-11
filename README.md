@@ -198,12 +198,19 @@
 <td><a href="https://gist.github.com/modos/8efb63620ea52cc7e8e79b70c204223f">جواب</td>  
 </tr>
 
- <tr>
+<tr>
 <td>صبا و سوال ساده</td>
 <td>31025</td>
 <td><a href="https://quera.ir/problemset/contest/31025/%D8%B3%D8%A4%D8%A7%D9%84-%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B5%D8%A8%D8%A7-%D9%88-%D8%B3%D9%88%D8%A7%D9%84-%D8%B3%D8%A7%D8%AF%D9%87">سوال</td>
 <td><a href="https://gist.github.com/modos/190cbf1f895bfa4ebcb08bd49e90ee90">جواب</td>  
-</tr>   
+</tr>
+  
+<tr>
+<td>زینی</td>
+<td>33023</td>
+<td><a href="https://quera.ir/problemset/contest/33023/%D8%B3%D8%A4%D8%A7%D9%84-%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%B2%DB%8C%D9%86%DB%8C">سوال</td>
+<td><a href="https://gist.github.com/modos/cb027880f1e5a09306a2e5354c357404">جواب</td>  
+</tr> 
   
 
 </table>
