@@ -220,5 +220,13 @@
 </tr>   
   
   
+<tr>
+<td>دایره عجیب</td>
+<td>34081</td>
+<td><a href="https://quera.ir/problemset/contest/34081/%D8%B3%D8%A4%D8%A7%D9%84-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%A7%D8%AA-%D8%AF%D8%A7%DB%8C%D8%B1%D9%87-%D8%B9%D8%AC%DB%8C%D8%A8">سوال</td>
+<td><a href="https://gist.github.com/modos/c0787bbe36c521adce0d14aa4c25bf99">جواب</td>  
+</tr>     
+  
+  
 
 </table>
