@@ -277,7 +277,15 @@
 <td>356</td>
 <td><a href="https://quera.org/problemset/356/">سوال</td>
 <td><a href="https://gist.github.com/modos/8a3627ff1c93cc6595e9b7ee1c0e59b2">جواب</td>  
-</tr>      
+</tr> 
+  
+  
+<tr>
+<td>کامل بودن یا نبودن</td>
+<td>282</td>
+<td><a href="https://quera.org/problemset/282/">سوال</td>
+<td><a href="https://gist.github.com/modos/8e33f61d46bea7353594ec1711524a63">جواب</td>  
+</tr>   
   
   
 
