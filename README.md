@@ -246,7 +246,14 @@
 <td>368</td>
 <td><a href="https://quera.org/problemset/368/">سوال</td>
 <td><a href="https://gist.github.com/modos/df018a027707ec2bb489635f2a04a523">جواب</td>  
-</tr>   
+</tr>
+  
+<tr>
+<td>دنباله ی فیبوناچی</td>
+<td>368</td>
+<td><a href="https://quera.org/problemset/303/">سوال</td>
+<td><a href="https://gist.github.com/modos/ccf91bcbfb3be8a5e419b5b5a3945f1f">جواب</td>  
+</tr>  
   
 
 </table>
