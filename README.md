@@ -261,6 +261,15 @@
 <td>637</td>
 <td><a href="https://quera.org/problemset/637/">سوال</td>
 <td><a href="https://gist.github.com/modos/b9f0f2843eba5aa2e4244e154d5fb2e6">جواب</td>  
-</tr>    
+</tr>   
+  
+
+<tr>
+<td>ماکزیمم</td>
+<td>637</td>
+<td><a href="https://quera.org/problemset/588/">سوال</td>
+<td><a href="https://gist.github.com/modos/eb23b70959ca3dd1b26f2461464d0981">جواب</td>  
+</tr>     
+  
 
 </table>
