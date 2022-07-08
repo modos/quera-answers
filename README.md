@@ -234,7 +234,12 @@
 <td><a href="https://gist.github.com/modos/33b344c12f513c860c6ccfcaab1ae150">جواب</td>  
 </tr>  
 
-  
+<tr>
+<td>یافتن عدد اول</td>
+<td>593</td>
+<td><a href="https://quera.org/problemset/593/">سوال</td>
+<td><a href="https://gist.github.com/modos/1893f13e1cf9e8d12640dc67a7b80596">جواب</td>  
+</tr>    
   
 
 </table>
