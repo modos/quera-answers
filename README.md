@@ -239,7 +239,14 @@
 <td>593</td>
 <td><a href="https://quera.org/problemset/593/">سوال</td>
 <td><a href="https://gist.github.com/modos/1893f13e1cf9e8d12640dc67a7b80596">جواب</td>  
-</tr>    
+</tr> 
+  
+<tr>
+<td>خانه هزار اتاق</td>
+<td>368</td>
+<td><a href="https://quera.org/problemset/368/">سوال</td>
+<td><a href="https://gist.github.com/modos/df018a027707ec2bb489635f2a04a523">جواب</td>  
+</tr>   
   
 
 </table>
