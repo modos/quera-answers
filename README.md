@@ -318,6 +318,14 @@
 <td>35253</td>
 <td><a href="https://quera.org/problemset/35253/">سوال</td>
 <td><a href="https://gist.github.com/modos/044a9f45a532344b07ac434722242f8d">جواب</td>  
+</tr> 
+  
+  
+<tr>
+<td>مدرسه شبانه روزی</td>
+<td>61038</td>
+<td><a href="https://quera.org/problemset/61038/">سوال</td>
+<td><a href="https://gist.github.com/modos/e6b295f8d3e3a4f735f037d9e8ab49d0">جواب</td>  
 </tr>   
   
   
