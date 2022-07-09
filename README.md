@@ -296,5 +296,14 @@
 </tr> 
   
   
+  
+<tr>
+<td>باگ کد مجید</td>
+<td>9111</td>
+<td><a href="https://quera.org/problemset/9111/">سوال</td>
+<td><a href="https://gist.github.com/modos/5010394fc54ddc592650d8c4d732fd5c">جواب</td>  
+</tr> 
+  
+  
 
 </table>
