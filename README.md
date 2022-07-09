@@ -305,5 +305,13 @@
 </tr> 
   
   
+<tr>
+<td>کپ گیر</td>
+<td>1367</td>
+<td><a href="https://quera.org/problemset/1367/">سوال</td>
+<td><a href="https://gist.github.com/modos/c223bb4121791f1bbcd18e764712f82b">جواب</td>  
+</tr>   
+  
+  
 
 </table>
