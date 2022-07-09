@@ -329,5 +329,13 @@
 </tr>   
   
   
+<tr>
+<td>کلید چراغ</td>
+<td>49028</td>
+<td><a href="https://quera.org/problemset/49028/">سوال</td>
+<td><a href="https://gist.github.com/modos/777f4d47e4431769527f50e1257b5592">جواب</td>  
+</tr>     
+  
+  
 
 </table>
