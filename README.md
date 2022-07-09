@@ -285,7 +285,15 @@
 <td>282</td>
 <td><a href="https://quera.org/problemset/282/">سوال</td>
 <td><a href="https://gist.github.com/modos/8e33f61d46bea7353594ec1711524a63">جواب</td>  
-</tr>   
+</tr> 
+
+
+<tr>
+<td>بهداشت و سلامت</td>
+<td>51865</td>
+<td><a href="https://quera.org/problemset/51865/">سوال</td>
+<td><a href="https://gist.github.com/modos/e6d9f313335d9e7f304a715279d6f547">جواب</td>  
+</tr> 
   
   
 
