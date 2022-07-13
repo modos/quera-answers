@@ -360,6 +360,14 @@
 <td>3032</td>
 <td><a href="https://quera.org/problemset/3032/">سوال</td>
 <td><a href="https://gist.github.com/modos/83ba80be6564cf44de9c289b8f9838e5">جواب</td>  
+</tr>
+  
+  
+<tr>
+<td>یک ساعت</td>
+<td>2886</td>
+<td><a href="https://quera.org/problemset/2886/">سوال</td>
+<td><a href="https://gist.github.com/modos/0dcf7b9003c4221eb99dc131ddd1801f">جواب</td>  
 </tr>  
   
   
