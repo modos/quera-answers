@@ -351,7 +351,16 @@
 <td>2436</td>
 <td><a href="https://quera.org/problemset/2436/">سوال</td>
 <td><a href="https://gist.github.com/modos/02113581632a04858515eb8b8e930ba4">جواب</td>  
-</tr>   
+</tr>
+  
+  
+
+<tr>
+<td>تربیت بدنی سنگین</td>
+<td>3032</td>
+<td><a href="https://quera.org/problemset/3032/">سوال</td>
+<td><a href="https://gist.github.com/modos/83ba80be6564cf44de9c289b8f9838e5">جواب</td>  
+</tr>  
   
   
   
