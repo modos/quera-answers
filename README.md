@@ -334,7 +334,15 @@
 <td>49028</td>
 <td><a href="https://quera.org/problemset/49028/">سوال</td>
 <td><a href="https://gist.github.com/modos/777f4d47e4431769527f50e1257b5592">جواب</td>  
-</tr>     
+</tr> 
+
+
+<tr>
+<td>هر که بامش بیش درسش بیش‌تر!</td>
+<td>9597</td>
+<td><a href="https://quera.org/problemset/9597/">سوال</td>
+<td><a href="https://gist.github.com/modos/c31c041163d288cc17372f6b111127eb">جواب</td>  
+</tr> 
   
   
 
