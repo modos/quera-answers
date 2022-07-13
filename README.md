@@ -380,11 +380,12 @@
   
   
 <tr>
-<td>روز آزادی بیان در برره</td>
+<td>زیربازه</td>
 <td>10162</td>
 <td><a href="https://quera.org/problemset/10162/">سوال</td>
-<td><a href="https://gist.github.com/modos/b5f0995406480feed9a5f9fa41b7c011">جواب</td>  
-</tr>    
+<td><a href="https://gist.github.com/modos/1a098c2c4be16c75fe1d48b3aaa4e0bd">جواب</td>  
+</tr>   
+  
   
 
 </table>
