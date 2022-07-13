@@ -371,7 +371,12 @@
 </tr>  
   
   
-  
+<tr>
+<td>جدول ضرب گنده</td>
+<td>3409</td>
+<td><a href="https://quera.org/problemset/3409/">سوال</td>
+<td><a href="https://gist.github.com/modos/9a92a84dbf80e622eafd5b4959b6e170">جواب</td>  
+</tr>    
   
 
 </table>
