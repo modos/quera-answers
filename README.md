@@ -344,6 +344,17 @@
 <td><a href="https://gist.github.com/modos/c31c041163d288cc17372f6b111127eb">جواب</td>  
 </tr> 
   
+
+
+<tr>
+<td>بهمن مرگبار</td>
+<td>2436</td>
+<td><a href="https://quera.org/problemset/2436/">سوال</td>
+<td><a href="https://gist.github.com/modos/02113581632a04858515eb8b8e930ba4">جواب</td>  
+</tr>   
+  
+  
+  
   
 
 </table>
