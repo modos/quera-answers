@@ -388,7 +388,15 @@
 <td>10162</td>
 <td><a href="https://quera.org/problemset/10162/">سوال</td>
 <td><a href="https://gist.github.com/modos/1a098c2c4be16c75fe1d48b3aaa4e0bd">جواب</td>  
-</tr>   
+</tr> 
+
+
+<tr>
+<td>تک رقمی</td>
+<td>3539</td>
+<td><a href="https://quera.org/problemset/3539/">سوال</td>
+<td><a href="https://gist.github.com/modos/f768be7aad8ff36149e94190417d9841">جواب</td>  
+</tr> 
   
   
 
