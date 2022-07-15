@@ -399,5 +399,13 @@
 </tr> 
   
   
+<tr>
+<td>مرد مالیاتچی و جاعل</td>
+<td>17246</td>
+<td><a href="https://quera.org/problemset/17246/">سوال</td>
+<td><a href="https://gist.github.com/modos/b681775c3176262c3c0da5e745fe3349">جواب</td>  
+</tr>   
+  
+  
 
 </table>
