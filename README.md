@@ -412,6 +412,13 @@
 <td><a href="https://quera.org/problemset/6398/">سوال</td>
 <td><a href="https://gist.github.com/modos/546c3a7db8560980c0ac384bb75bc21d">جواب</td>  
 </tr>   
+
+<tr>
+<td>جایگشت ها</td>
+<td>2441</td>
+<td><a href="https://quera.org/problemset/2441/">سوال</td>
+<td><a href="https://gist.github.com/modos/68c1037a47163f3c41af6b89b97731fb">جواب</td>  
+</tr>   
   
   
 
