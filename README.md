@@ -480,6 +480,13 @@
 <td><a href="https://quera.org/problemset/52542/">سوال</td>
 <td><a href="https://gist.github.com/modos/3e38e42d0f56c90aacd99e38f002e15e">جواب</td>  
 </tr>   
+  
+<tr>
+<td>ب.ب.م.م</td>
+<td>3418</td>
+<td><a href="https://quera.org/problemset/3418/">سوال</td>
+<td><a href="https://gist.github.com/modos/1dba823d461d77f08d74bde021b12c08">جواب</td>  
+</tr>     
     
   
 
