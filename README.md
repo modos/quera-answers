@@ -426,7 +426,15 @@
 <td>1360</td>
 <td><a href="https://quera.org/problemset/1360/">سوال</td>
 <td><a href="https://gist.github.com/modos/20eb991870fccaa4c66eae1812efcf53">جواب</td>  
-</tr>   
+</tr>  
+  
+  
+<tr>
+<td>اعداد حقیقی</td>
+<td>2433</td>
+<td><a href="https://quera.org/problemset/2433/">سوال</td>
+<td><a href="https://gist.github.com/modos/f326e47a8e54a6efecba1493b063b7a8">جواب</td>  
+</tr>    
     
   
 
