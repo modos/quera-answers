@@ -552,5 +552,12 @@
 <td><a href="https://quera.org/problemset/60134/">سوال</td>
 <td><a href="https://gist.github.com/modos/e29220151a7bed7c354ff8d6fe681a98">جواب</td>  
 </tr>  
+  
+<tr>
+<td>استخراج-دیتابیس</td>
+<td>136490</td>
+<td><a href="https://quera.org/problemset/136490/">سوال</td>
+<td><a href="https://gist.github.com/modos/5e4e704fd6ebf9f2e46cb049c7106ff3">جواب</td>  
+</tr>    
 
 </table>
