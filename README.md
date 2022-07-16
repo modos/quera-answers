@@ -457,6 +457,14 @@
 <td>4067</td>
 <td><a href="https://quera.org/problemset/4067/">سوال</td>
 <td><a href="https://gist.github.com/modos/4509f5e4046fa0a2bf31a669aa6d1a1a">جواب</td>  
+</tr>  
+  
+  
+<tr>
+<td>گزارش کار</td>
+<td>49535</td>
+<td><a href="https://quera.org/problemset/49535/">سوال</td>
+<td><a href="https://gist.github.com/modos/4966b6cc3227e63f7fe36fc9fa1bb9dd">جواب</td>  
 </tr>    
     
   
