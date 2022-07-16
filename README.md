@@ -536,7 +536,14 @@
 <td>3408</td>
 <td><a href="https://quera.org/problemset/3408/">سوال</td>
 <td><a href="https://gist.github.com/modos/cf4786bb696b44be1c1147e32bf8b37f">جواب</td>  
-</tr>      
+</tr>    
+
+<tr>
+<td>بازی تفاضل</td>
+<td>87176</td>
+<td><a href="https://quera.org/problemset/87176/">سوال</td>
+<td><a href="https://gist.github.com/modos/5957c8ec2751c80942ca100908c01837">جواب</td>  
+</tr>    
     
   
 
