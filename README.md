@@ -450,6 +450,14 @@
 <td><a href="https://quera.org/problemset/2440/">سوال</td>
 <td><a href="https://gist.github.com/modos/24e3dbd5313a85c3e5f8bd0f1868536f">جواب</td>  
 </tr>  
+  
+  
+<tr>
+<td>سراب</td>
+<td>4067</td>
+<td><a href="https://quera.org/problemset/4067/">سوال</td>
+<td><a href="https://gist.github.com/modos/4509f5e4046fa0a2bf31a669aa6d1a1a">جواب</td>  
+</tr>    
     
   
 
