@@ -565,6 +565,14 @@
 <td>148092</td>
 <td><a href="https://quera.org/problemset/148092/">سوال</td>
 <td><a href="https://gist.github.com/modos/897da754a89a8602ed11ff0123ea8760">جواب</td>  
-</tr>      
+</tr> 
+  
+  
+<tr>
+<td>صفحه ی پاسخگو</td>
+<td>33043</td>
+<td><a href="https://quera.org/problemset/33043/">سوال</td>
+<td><a href="https://gist.github.com/modos/49aa3c5b7069de862ce498987cbe1372">جواب</td>  
+</tr>   
 
 </table>
