@@ -560,4 +560,11 @@
 <td><a href="https://gist.github.com/modos/5e4e704fd6ebf9f2e46cb049c7106ff3">جواب</td>  
 </tr>    
 
+<tr>
+<td>بهینه سازی جستجو</td>
+<td>148092</td>
+<td><a href="https://quera.org/problemset/148092/">سوال</td>
+<td><a href="https://gist.github.com/modos/897da754a89a8602ed11ff0123ea8760">جواب</td>  
+</tr>      
+
 </table>
