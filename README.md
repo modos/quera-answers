@@ -466,6 +466,13 @@
 <td><a href="https://quera.org/problemset/49535/">سوال</td>
 <td><a href="https://gist.github.com/modos/4966b6cc3227e63f7fe36fc9fa1bb9dd">جواب</td>  
 </tr>    
+  
+<tr>
+<td>یخدارچی</td>
+<td>3429</td>
+<td><a href="https://quera.org/problemset/3429/">سوال</td>
+<td><a href="https://gist.github.com/modos/46ee45fa6b0812f777f94e93f14a9a8e">جواب</td>  
+</tr>      
     
   
 
