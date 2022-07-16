@@ -493,6 +493,13 @@
 <td>3406</td>
 <td><a href="https://quera.org/problemset/3406/">سوال</td>
 <td><a href="https://gist.github.com/modos/0f82abfbc9ffb9c9a89235e2bbf6520a">جواب</td>  
+</tr> 
+  
+<tr>
+<td>نمک زندگی</td>
+<td>20258</td>
+<td><a href="https://quera.org/problemset/20258/">سوال</td>
+<td><a href="https://gist.github.com/modos/3c281da341685cd41c2b306e89531fb0">جواب</td>  
 </tr>   
     
   
