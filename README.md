@@ -434,6 +434,14 @@
 <td>2433</td>
 <td><a href="https://quera.org/problemset/2433/">سوال</td>
 <td><a href="https://gist.github.com/modos/f326e47a8e54a6efecba1493b063b7a8">جواب</td>  
+</tr>  
+  
+  
+<tr>
+<td>دسته به دسته</td>
+<td>3433</td>
+<td><a href="https://quera.org/problemset/3433/">سوال</td>
+<td><a href="https://gist.github.com/modos/295bc3d0b8b404492ddaef8e8b910773">جواب</td>  
 </tr>    
     
   
