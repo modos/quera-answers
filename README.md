@@ -514,7 +514,14 @@
 <td>2529</td>
 <td><a href="https://quera.org/problemset/2529/">سوال</td>
 <td><a href="https://gist.github.com/modos/cdab457a233d7480e058a15a0462215e">جواب</td>  
-</tr>    
+</tr> 
+  
+<tr>
+<td>همایش زندگی بهتر</td>
+<td>10325</td>
+<td><a href="https://quera.org/problemset/10325/">سوال</td>
+<td><a href="https://gist.github.com/modos/972447167181fa4d6a5495f6198080ad">جواب</td>  
+</tr>   
     
   
 
