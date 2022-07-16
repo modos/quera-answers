@@ -500,6 +500,13 @@
 <td>20258</td>
 <td><a href="https://quera.org/problemset/20258/">سوال</td>
 <td><a href="https://gist.github.com/modos/3c281da341685cd41c2b306e89531fb0">جواب</td>  
+</tr> 
+  
+<tr>
+<td>کولر یا بخاری</td>
+<td>147635</td>
+<td><a href="https://quera.org/problemset/147635/">سوال</td>
+<td><a href="https://gist.github.com/modos/25a7f960761fcfcc52a81ee0e44bba40">جواب</td>  
 </tr>   
     
   
