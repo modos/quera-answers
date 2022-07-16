@@ -529,6 +529,14 @@
 <td><a href="https://quera.org/problemset/148099/">سوال</td>
 <td><a href="https://gist.github.com/modos/9b0b8e06d01b35920d16aa3e0368e668">جواب</td>  
 </tr>    
+  
+  
+<tr>
+<td>سوال برنامه نویسی برنامه نویسی سوال</td>
+<td>3408</td>
+<td><a href="https://quera.org/problemset/3408/">سوال</td>
+<td><a href="https://gist.github.com/modos/cf4786bb696b44be1c1147e32bf8b37f">جواب</td>  
+</tr>      
     
   
 
