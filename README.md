@@ -421,5 +421,13 @@
 </tr>   
   
   
+<tr>
+<td>آدرس یابی</td>
+<td>1360</td>
+<td><a href="https://quera.org/problemset/1360/">سوال</td>
+<td><a href="https://gist.github.com/modos/20eb991870fccaa4c66eae1812efcf53">جواب</td>  
+</tr>   
+    
+  
 
 </table>
