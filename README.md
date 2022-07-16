@@ -507,7 +507,14 @@
 <td>147635</td>
 <td><a href="https://quera.org/problemset/147635/">سوال</td>
 <td><a href="https://gist.github.com/modos/25a7f960761fcfcc52a81ee0e44bba40">جواب</td>  
-</tr>   
+</tr>  
+  
+<tr>
+<td>اسم ها</td>
+<td>2529</td>
+<td><a href="https://quera.org/problemset/2529/">سوال</td>
+<td><a href="https://gist.github.com/modos/cdab457a233d7480e058a15a0462215e">جواب</td>  
+</tr>    
     
   
 
