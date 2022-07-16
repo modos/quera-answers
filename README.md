@@ -545,6 +545,12 @@
 <td><a href="https://gist.github.com/modos/5957c8ec2751c80942ca100908c01837">جواب</td>  
 </tr>    
     
-  
+
+<tr>
+<td>شطرنج میوه ای</td>
+<td>60134</td>
+<td><a href="https://quera.org/problemset/60134/">سوال</td>
+<td><a href="https://gist.github.com/modos/e29220151a7bed7c354ff8d6fe681a98">جواب</td>  
+</tr>  
 
 </table>
