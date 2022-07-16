@@ -573,6 +573,13 @@
 <td>33043</td>
 <td><a href="https://quera.org/problemset/33043/">سوال</td>
 <td><a href="https://gist.github.com/modos/49aa3c5b7069de862ce498987cbe1372">جواب</td>  
-</tr>   
+</tr>
+  
+<tr>
+<td>بررسی فضا</td>
+<td>147642</td>
+<td><a href="https://quera.org/problemset/147642/">سوال</td>
+<td><a href="https://gist.github.com/modos/611628a144f83b840dc16de559dabde2">جواب</td>  
+</tr>     
 
 </table>
