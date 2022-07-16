@@ -405,6 +405,13 @@
 <td><a href="https://quera.org/problemset/17246/">سوال</td>
 <td><a href="https://gist.github.com/modos/b681775c3176262c3c0da5e745fe3349">جواب</td>  
 </tr>   
+
+<tr>
+<td>عدد در عدد</td>
+<td>6398</td>
+<td><a href="https://quera.org/problemset/6398/">سوال</td>
+<td><a href="https://gist.github.com/modos/546c3a7db8560980c0ac384bb75bc21d">جواب</td>  
+</tr>   
   
   
 
