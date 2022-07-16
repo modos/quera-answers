@@ -486,7 +486,14 @@
 <td>3418</td>
 <td><a href="https://quera.org/problemset/3418/">سوال</td>
 <td><a href="https://gist.github.com/modos/1dba823d461d77f08d74bde021b12c08">جواب</td>  
-</tr>     
+</tr>
+  
+<tr>
+<td>صدگان خسته</td>
+<td>3406</td>
+<td><a href="https://quera.org/problemset/3406/">سوال</td>
+<td><a href="https://gist.github.com/modos/0f82abfbc9ffb9c9a89235e2bbf6520a">جواب</td>  
+</tr>   
     
   
 
