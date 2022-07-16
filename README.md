@@ -521,7 +521,14 @@
 <td>10325</td>
 <td><a href="https://quera.org/problemset/10325/">سوال</td>
 <td><a href="https://gist.github.com/modos/972447167181fa4d6a5495f6198080ad">جواب</td>  
-</tr>   
+</tr>  
+  
+<tr>
+<td>اعداد یکتا</td>
+<td>148099</td>
+<td><a href="https://quera.org/problemset/148099/">سوال</td>
+<td><a href="https://gist.github.com/modos/9b0b8e06d01b35920d16aa3e0368e668">جواب</td>  
+</tr>    
     
   
 
