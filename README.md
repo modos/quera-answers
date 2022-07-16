@@ -472,7 +472,14 @@
 <td>3429</td>
 <td><a href="https://quera.org/problemset/3429/">سوال</td>
 <td><a href="https://gist.github.com/modos/46ee45fa6b0812f777f94e93f14a9a8e">جواب</td>  
-</tr>      
+</tr> 
+  
+<tr>
+<td>کاکتوس های پردردسر</td>
+<td>52542</td>
+<td><a href="https://quera.org/problemset/52542/">سوال</td>
+<td><a href="https://gist.github.com/modos/3e38e42d0f56c90aacd99e38f002e15e">جواب</td>  
+</tr>   
     
   
 
