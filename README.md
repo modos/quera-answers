@@ -580,6 +580,13 @@
 <td>147642</td>
 <td><a href="https://quera.org/problemset/147642/">سوال</td>
 <td><a href="https://gist.github.com/modos/611628a144f83b840dc16de559dabde2">جواب</td>  
-</tr>     
+</tr> 
+
+<tr>
+<td>!پیدایش</td>
+<td>102250</td>
+<td><a href="https://quera.org/problemset/102250/">سوال</td>
+<td><a href="https://gist.github.com/modos/e29e7ab44c0f52faa0540210692d9350">جواب</td>  
+</tr> 
 
 </table>
