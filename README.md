@@ -589,4 +589,12 @@
 <td><a href="https://gist.github.com/modos/e29e7ab44c0f52faa0540210692d9350">جواب</td>  
 </tr> 
 
+
+<tr>
+<td>نظریه ریسمان</td>
+<td>83360</td>
+<td><a href="https://quera.org/problemset/83360/">سوال</td>
+<td><a href="https://gist.github.com/modos/3a1c9498154a05b8b6d10b0be4ee4def">جواب</td>  
+</tr> 
+
 </table>
