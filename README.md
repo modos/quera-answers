@@ -1,6 +1,6 @@
-# quera-answers
-<h2>جواب سوالات کوئرا</h2>
-<p>همه ی جواب ها نمره کامل 100 رو گرفتند</p>
+# quera-answers | جواب سوالات کوئرا
+
+<p>همه ی جواب ها نمره کامل 100 رو گرفته اند.</p>
 <p>اگر میخواین مشارکت داشته باشید بهم ایمیل بزنید:</p>
 <p>modos.m98@gmail.com</p>
 
@@ -596,5 +596,15 @@
 <td><a href="https://quera.org/problemset/83360/">سوال</td>
 <td><a href="https://gist.github.com/modos/3a1c9498154a05b8b6d10b0be4ee4def">جواب</td>  
 </tr> 
+
+
+
+<tr>
+<td>جمع فوتبالی</td>
+<td>148638</td>
+<td><a href="https://quera.org/problemset/148638/">سوال</td>
+<td><a href="https://gist.github.com/modos/65da7f5e283bfdeb3db37558a22c303c">جواب</td>  
+</tr> 
+
 
 </table>
