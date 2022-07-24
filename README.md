@@ -612,6 +612,14 @@
 <td><a href="https://quera.org/problemset/148639/">سوال</td>
 <td><a href="https://gist.github.com/modos/6312df85afbebabff9bedf84d4987b0d">جواب</td>  
 </tr> 
+  
+
+<tr>
+<td>مجزا</td>
+<td>129726</td>
+<td><a href="https://quera.org/problemset/129726/">سوال</td>
+<td><a href="https://gist.github.com/modos/9b8fc13f884a2199c755817dad7679e0">جواب</td>  
+</tr>   
 
 
 </table>
