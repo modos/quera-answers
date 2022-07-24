@@ -606,5 +606,12 @@
 <td><a href="https://gist.github.com/modos/65da7f5e283bfdeb3db37558a22c303c">جواب</td>  
 </tr> 
 
+<tr>
+<td>مساحت پیچیده</td>
+<td>148639</td>
+<td><a href="https://quera.org/problemset/148639/">سوال</td>
+<td><a href="https://gist.github.com/modos/6312df85afbebabff9bedf84d4987b0d">جواب</td>  
+</tr> 
+
 
 </table>
