@@ -619,7 +619,15 @@
 <td>129726</td>
 <td><a href="https://quera.org/problemset/129726/">سوال</td>
 <td><a href="https://gist.github.com/modos/9b8fc13f884a2199c755817dad7679e0">جواب</td>  
-</tr>   
+</tr> 
+
+
+<tr>
+<td>چنتا نقطه داره؟</td>
+<td>132241</td>
+<td><a href="https://quera.org/problemset/132241/">سوال</td>
+<td><a href="https://gist.github.com/modos/7618efcc31e88c5f23ac9dd8be992a30">جواب</td>  
+</tr> 
 
 
 </table>
