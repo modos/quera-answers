@@ -637,5 +637,12 @@
 <td><a href="https://gist.github.com/modos/91ff23d9f53eae432147a8b6ab3060c2">جواب</td>  
 </tr>
 
+<tr>
+<td>جدول بازی</td>
+<td>18850</td>
+<td><a href="https://quera.org/problemset/18850/">سوال</td>
+<td><a href="https://gist.github.com/modos/0b0283567f7a89be57f43187184fd312">جواب</td>  
+</tr>
+
 
 </table>
