@@ -645,4 +645,12 @@
 </tr>
 
 
+<tr>
+<td>ام تایی ها</td>
+<td>76278</td>
+<td><a href="https://quera.org/problemset/76278/">سوال</td>
+<td><a href="https://gist.github.com/modos/9420fceff76528b4e4a938c970c880c3">جواب</td>  
+</tr>
+
+
 </table>
