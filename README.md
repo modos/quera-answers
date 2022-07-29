@@ -652,5 +652,12 @@
 <td><a href="https://gist.github.com/modos/9420fceff76528b4e4a938c970c880c3">جواب</td>  
 </tr>
 
+<tr>
+<td>تا نوروز</td>
+<td>57760</td>
+<td><a href="https://quera.org/problemset/57760/">سوال</td>
+<td><a href="https://gist.github.com/modos/34f01e74282108c34e974391183ff36d">جواب</td>  
+</tr>
+
 
 </table>
