@@ -660,4 +660,12 @@
 </tr>
 
 
+<tr>
+<td>اسنپ شاپ</td>
+<td>109570</td>
+<td><a href="https://quera.org/problemset/109570/">سوال</td>
+<td><a href="https://github.com/modos/quera-answers/blob/main/Quera_SnappShop.zip">جواب</td>  
+</tr>
+
+
 </table>
