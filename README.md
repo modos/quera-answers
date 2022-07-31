@@ -668,4 +668,12 @@
 </tr>
 
 
+<tr>
+<td>Background Color Switch</td>
+<td>49606</td>
+<td><a href="https://quera.org/problemset/49606/">سوال</td>
+<td><a href="https://gist.github.com/modos/bf32197ec63bef5c939fd7e6bd4ad4e5">جواب</td>  
+</tr>
+
+
 </table>
