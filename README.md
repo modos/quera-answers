@@ -676,4 +676,12 @@
 </tr>
 
 
+<tr>
+<td>انتخاب کننده تودرتو</td>
+<td>66543</td>
+<td><a href="https://quera.org/problemset/66543/">سوال</td>
+<td><a href="https://gist.github.com/modos/780056c0280cd23cd23bcb921b23db3f">جواب</td>  
+</tr>
+
+
 </table>
