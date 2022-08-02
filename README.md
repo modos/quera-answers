@@ -705,6 +705,14 @@
 <td><a href="https://quera.org/problemset/87181/">سوال</td>
 <td><a href="https://gist.github.com/modos/8cfd881ab3165095130c9c4a9393ea35">جواب</td>  
 </tr>
+  
+  
+ <tr>
+<td>عکس تار</td>
+<td>33488</td>
+<td><a href="https://quera.org/problemset/33488/">سوال</td>
+<td><a href="https://gist.github.com/modos/53b64395ecab0f029e30af6cb1fc12f8">جواب</td>  
+</tr>
 
 
 </table>
