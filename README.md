@@ -690,5 +690,12 @@
 <td><a href="https://gist.github.com/modos/88ceff0bb49112e64a0a68827c721d9d">جواب</td>  
 </tr>
 
+<tr>
+<td>پروموشن نوروز</td>
+<td>136480</td>
+<td><a href="https://quera.org/problemset/136480/">سوال</td>
+<td><a href="https://gist.github.com/modos/107bc94e287b1131bb11af815585caf5">جواب</td>  
+</tr>
+
 
 </table>
