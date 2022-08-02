@@ -683,5 +683,12 @@
 <td><a href="https://gist.github.com/modos/780056c0280cd23cd23bcb921b23db3f">جواب</td>  
 </tr>
 
+<tr>
+<td>ورودی مطلوب</td>
+<td>18851</td>
+<td><a href="https://quera.org/problemset/18851/">سوال</td>
+<td><a href="https://gist.github.com/modos/88ceff0bb49112e64a0a68827c721d9d">جواب</td>  
+</tr>
+
 
 </table>
