@@ -720,6 +720,13 @@
 <td><a href="https://quera.org/problemset/43844/">سوال</td>
 <td><a href="https://gist.github.com/modos/9addbde06c116ea46a7ece5c6750072d">جواب</td>  
 </tr>
+  
+<tr>
+<td>مساحت</td>
+<td>33473</td>
+<td><a href="https://quera.org/problemset/33473/">سوال</td>
+<td><a href="https://gist.github.com/modos/8610a70fffe94896d9c0419729f7b46a">جواب</td>  
+</tr>  
 
 
 </table>
