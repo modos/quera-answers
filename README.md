@@ -714,5 +714,12 @@
 <td><a href="https://gist.github.com/modos/53b64395ecab0f029e30af6cb1fc12f8">جواب</td>  
 </tr>
 
+ <tr>
+<td>Simple HTML</td>
+<td>43844</td>
+<td><a href="https://quera.org/problemset/43844/">سوال</td>
+<td><a href="https://gist.github.com/modos/9addbde06c116ea46a7ece5c6750072d">جواب</td>  
+</tr>
+
 
 </table>
