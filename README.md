@@ -729,4 +729,12 @@
 </tr>  
 
 
+<tr>
+<td>خالی های رنگی</td>
+<td>21220</td>
+<td><a href="https://quera.org/problemset/21220/">سوال</td>
+<td><a href="https://gist.github.com/modos/3492c324cd917354938febf4eef78792">جواب</td>  
+</tr>  
+
+
 </table>
