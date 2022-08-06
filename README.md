@@ -741,7 +741,15 @@
 <td>16396</td>
 <td><a href="https://quera.org/problemset/16396/">سوال</td>
 <td><a href="https://gist.github.com/modos/47212387ce8713bd7927f9ea8600fb66">جواب</td>  
-</tr>  
+</tr> 
+
+
+<tr>
+<td>camelCase</td>
+<td>34937</td>
+<td><a href="https://quera.org/problemset/34937/">سوال</td>
+<td><a href="https://gist.github.com/modos/ee62b5e8dfea91259aec0af4a0c6cd6b">جواب</td>  
+</tr> 
 
 
 </table>
