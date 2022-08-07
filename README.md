@@ -751,5 +751,12 @@
 <td><a href="https://gist.github.com/modos/ee62b5e8dfea91259aec0af4a0c6cd6b">جواب</td>  
 </tr> 
 
+<tr>
+<td>محصولات</td>
+<td>66548</td>
+<td><a href="https://quera.org/problemset/66548/">سوال</td>
+<td><a href="https://gist.github.com/modos/f623ef4f5a022d6ddc4531b368eba64a">جواب</td>  
+</tr> 
+
 
 </table>
