@@ -759,4 +759,12 @@
 </tr> 
 
 
+<tr>
+<td>دوزیستان ناکام</td>
+<td>15688</td>
+<td><a href="https://quera.org/problemset/15688/">سوال</td>
+<td><a href="https://github.com/modos/quera-answers/blob/main/funeral-invitation.zip">جواب</td>  
+</tr> 
+
+
 </table>
