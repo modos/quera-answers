@@ -767,4 +767,12 @@
 </tr> 
 
 
+<tr>
+<td>chesstml</td>
+<td>60135</td>
+<td><a href="https://quera.org/problemset/60135/">سوال</td>
+<td><a href="https://gist.github.com/modos/71e353e5021685fb74b8c6ca74128d09">جواب</td>  
+</tr> 
+
+
 </table>
