@@ -783,4 +783,12 @@
 </tr> 
 
 
+<tr>
+<td>تَخَطّی‌گَری</td>
+<td>129728</td>
+<td><a href="https://quera.org/problemset/129728/">سوال</td>
+<td><a href="https://gist.github.com/modos/825758f88f7a0b68519cc2c0af06bb6f">جواب</td>  
+</tr> 
+
+
 </table>
