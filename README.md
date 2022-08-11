@@ -775,4 +775,12 @@
 </tr> 
 
 
+<tr>
+<td>مقایسه گر</td>
+<td>102248</td>
+<td><a href="https://quera.org/problemset/102248/">سوال</td>
+<td><a href="https://gist.github.com/modos/18134fc213f6345c7cee5a6f6cbd6bf3">جواب</td>  
+</tr> 
+
+
 </table>
