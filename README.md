@@ -790,5 +790,12 @@
 <td><a href="https://gist.github.com/modos/825758f88f7a0b68519cc2c0af06bb6f">جواب</td>  
 </tr> 
 
+<tr>
+<td‌></td>
+<td>134351</td>
+<td><a href="https://quera.org/problemset/134351/">سوال</td>
+<td><a href="https://github.com/modos/quera-answers/blob/main/price-range.zip">جواب</td>  
+</tr> 
+
 
 </table>
