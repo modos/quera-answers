@@ -791,7 +791,7 @@
 </tr> 
 
 <tr>
-<td‌></td>
+<td>رنج قیمت مفید</td>
 <td>134351</td>
 <td><a href="https://quera.org/problemset/134351/">سوال</td>
 <td><a href="https://github.com/modos/quera-answers/blob/main/price-range.zip">جواب</td>  
