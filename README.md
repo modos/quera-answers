@@ -809,7 +809,14 @@
 <td>132260</td>
 <td><a href="https://quera.org/problemset/132260/">سوال</td>
 <td><a href="https://gist.github.com/modos/da7f5eb7c2f18f56defd01d5a83b90f2">جواب</td>  
-</tr> 
+</tr>
+
+<tr>
+<td>عکس غیبی</td>
+<td>21221</td>
+<td><a href="https://quera.org/problemset/21221/">سوال</td>
+<td><a href="https://gist.github.com/modos/83f113e21cf061278ce54fadd606b1db">جواب</td>  
+</tr>
 
 
 </table>
