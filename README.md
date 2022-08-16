@@ -818,5 +818,12 @@
 <td><a href="https://gist.github.com/modos/83f113e21cf061278ce54fadd606b1db">جواب</td>  
 </tr>
 
+<tr>
+<td>مبنا</td>
+<td>594</td>
+<td><a href="https://quera.org/problemset/594/">سوال</td>
+<td><a href="https://gist.github.com/modos/8fad53a18966812aec4eb656f6bb5be2">جواب</td>  
+</tr>
+
 
 </table>
