@@ -825,5 +825,12 @@
 <td><a href="https://gist.github.com/modos/8fad53a18966812aec4eb656f6bb5be2">جواب</td>  
 </tr>
 
+<tr>
+<td>رنگ‌آمیزی مکعب - پایتون</td>
+<td>33034</td>
+<td><a href="https://quera.org/problemset/33034/">سوال</td>
+<td><a href="https://gist.github.com/modos/97356797a38d1ed80001a59d16c5eb79">جواب</td>  
+</tr>
+
 
 </table>
