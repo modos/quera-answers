@@ -840,4 +840,12 @@
 </tr>
 
 
+<tr>
+<td>مقدمه</td>
+<td>129767</td>
+<td><a href="https://quera.org/problemset/129767/">سوال</td>
+<td><a href=https://gist.github.com/modos/6a44e0de3a467b80db52407ff6261ece">جواب</td>  
+</tr>
+
+
 </table>
