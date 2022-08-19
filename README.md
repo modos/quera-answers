@@ -832,5 +832,12 @@
 <td><a href="https://gist.github.com/modos/97356797a38d1ed80001a59d16c5eb79">جواب</td>  
 </tr>
 
+<tr>
+<td>وسط قرار دادن المان</td>
+<td>68275</td>
+<td><a href="https://quera.org/problemset/68275/">سوال</td>
+<td><a href="https://gist.github.com/modos/03e61d402580d26b0ddccdd2e6d3df1f">جواب</td>  
+</tr>
+
 
 </table>
