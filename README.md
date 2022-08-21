@@ -853,7 +853,14 @@
 <td>589</td>
 <td><a href="https://quera.org/problemset/589/">سوال</td>
 <td><a href="https://gist.github.com/modos/065fb74d7e605f8c7a105589cc58612d">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>اعداد فیثاغورثی</td>
+<td>280</td>
+<td><a href="https://quera.org/problemset/280/">سوال</td>
+<td><a href="https://gist.github.com/modos/69c46c536156eefbfdfabbf67837f6eb">جواب</td>  
+</tr> 
 
 
 </table>
