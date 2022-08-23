@@ -869,5 +869,12 @@
 <td><a href="https://gist.github.com/modos/640f9dea3b3f07d359b98d049c05e432">جواب</td>  
 </tr> 
 
+<tr>
+<td>!!خر در چمن فراوونه</td>
+<td>4065</td>
+<td><a href="https://quera.org/problemset/4065/">سوال</td>
+<td><a href="https://gist.github.com/modos/1515991c4be49d3f44f61aa7e2c8a588">جواب</td>  
+</tr> 
+
 
 </table>
