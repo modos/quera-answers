@@ -862,5 +862,12 @@
 <td><a href="https://gist.github.com/modos/69c46c536156eefbfdfabbf67837f6eb">جواب</td>  
 </tr> 
 
+<tr>
+<td>توان 2</td>
+<td>616</td>
+<td><a href="https://quera.org/problemset/616/">سوال</td>
+<td><a href="https://gist.github.com/modos/640f9dea3b3f07d359b98d049c05e432">جواب</td>  
+</tr> 
+
 
 </table>
