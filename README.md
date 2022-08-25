@@ -876,5 +876,12 @@
 <td><a href="https://gist.github.com/modos/1515991c4be49d3f44f61aa7e2c8a588">جواب</td>  
 </tr> 
 
+<tr>
+<td>چاپ مربع</td>
+<td>591</td>
+<td><a href="https://quera.org/problemset/591/">سوال</td>
+<td><a href="https://gist.github.com/modos/7e75cf15023b3bf79db333fd8c281076">جواب</td>  
+</tr> 
+
 
 </table>
