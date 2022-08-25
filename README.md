@@ -883,5 +883,12 @@
 <td><a href="https://gist.github.com/modos/7e75cf15023b3bf79db333fd8c281076">جواب</td>  
 </tr> 
 
+<tr>
+<td>رنگ‌آمیزی مکعب - جاوا</td>
+<td>33033</td>
+<td><a href="https://quera.org/problemset/33033/">سوال</td>
+<td><a href="https://gist.github.com/modos/f0e5049901230fe80b6929074ed485f9">جواب</td>  
+</tr> 
+
 
 </table>
