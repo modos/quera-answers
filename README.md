@@ -897,5 +897,12 @@
 <td><a href="https://gist.github.com/modos/22ea9a6f8580265ca95383f12380604d">جواب</td>  
 </tr> 
 
+<tr>
+<td>کسر لتکی</td>
+<td>148639</td>
+<td><a href="https://quera.org/problemset/148639/">سوال</td>
+<td><a href="https://gist.github.com/modos/5f47ffa1bebef0f9e08719580ed2f9fc">جواب</td>  
+</tr> 
+
 
 </table>
