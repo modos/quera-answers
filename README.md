@@ -898,10 +898,10 @@
 </tr> 
 
 <tr>
-<td>کسر لتکی</td>
-<td>148639</td>
-<td><a href="https://quera.org/problemset/148639/">سوال</td>
-<td><a href="https://gist.github.com/modos/5f47ffa1bebef0f9e08719580ed2f9fc">جواب</td>  
+<td>کادوی پوپک پسند</td>
+<td>15125</td>
+<td><a href="https://quera.org/problemset/15125/">سوال</td>
+<td><a href="https://gist.github.com/modos/dc7ddb1c1a1a0821c9c5197535493930">جواب</td>  
 </tr> 
 
 
