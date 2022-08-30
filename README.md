@@ -911,5 +911,12 @@
 <td><a href="https://gist.github.com/modos/7018f02f5b6dcb3588d32a327e19fb11">جواب</td>  
 </tr> 
 
+<tr>
+<td>نقشه حمله</td>
+<td>15129</td>
+<td><a href="https://quera.org/problemset/15129/">سوال</td>
+<td><a href="https://gist.github.com/modos/4ac591e48642dc4902cb99b1984c98f1">جواب</td>  
+</tr> 
+
 
 </table>
