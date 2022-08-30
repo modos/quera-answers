@@ -904,5 +904,12 @@
 <td><a href="https://gist.github.com/modos/dc7ddb1c1a1a0821c9c5197535493930">جواب</td>  
 </tr> 
 
+<tr>
+<td>دنباله تورج‌پسند</td>
+<td>15126</td>
+<td><a href="https://quera.org/problemset/15126/">سوال</td>
+<td><a href="https://gist.github.com/modos/7018f02f5b6dcb3588d32a327e19fb11">جواب</td>  
+</tr> 
+
 
 </table>
