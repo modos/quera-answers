@@ -918,5 +918,12 @@
 <td><a href="https://gist.github.com/modos/4ac591e48642dc4902cb99b1984c98f1">جواب</td>  
 </tr> 
 
+<tr>
+<td>حدس عدد</td>
+<td>2596</td>
+<td><a href="https://quera.org/problemset/2596/">سوال</td>
+<td><a href="https://gist.github.com/modos/a8cfb6914f99a32586cbf6c74e5292b6">جواب</td>  
+</tr> 
+
 
 </table>
