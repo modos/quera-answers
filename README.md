@@ -932,5 +932,12 @@
 <td><a href="https://gist.github.com/modos/c3626104b9e1a493a5d22c1f6aaee5f2">جواب</td>  
 </tr> 
 
+<tr>
+<td>LIS محمد مهدی و</td>
+<td>2598</td>
+<td><a href="https://quera.org/problemset/2598/">سوال</td>
+<td><a href="https://gist.github.com/modos/25e43dae006d4445bc23b4542ae48e7d">جواب</td>  
+</tr> 
+
 
 </table>
