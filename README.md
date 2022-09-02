@@ -925,5 +925,12 @@
 <td><a href="https://gist.github.com/modos/a8cfb6914f99a32586cbf6c74e5292b6">جواب</td>  
 </tr> 
 
+<tr>
+<td>دیدار دوست</td>
+<td>2597</td>
+<td><a href="https://quera.org/problemset/2597/">سوال</td>
+<td><a href="https://gist.github.com/modos/c3626104b9e1a493a5d22c1f6aaee5f2">جواب</td>  
+</tr> 
+
 
 </table>
