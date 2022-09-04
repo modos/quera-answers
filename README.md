@@ -939,5 +939,12 @@
 <td><a href="https://gist.github.com/modos/25e43dae006d4445bc23b4542ae48e7d">جواب</td>  
 </tr> 
 
+<tr>
+<td>قتل عام</td>
+<td>2599</td>
+<td><a href="https://quera.org/problemset/2599/">سوال</td>
+<td><a href="https://gist.github.com/modos/cac0b6bacbe1b5098c0b68e93256b811">جواب</td>  
+</tr> 
+
 
 </table>
