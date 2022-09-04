@@ -946,5 +946,12 @@
 <td><a href="https://gist.github.com/modos/cac0b6bacbe1b5098c0b68e93256b811">جواب</td>  
 </tr> 
 
+<tr>
+<td>جدول رنگی</td>
+<td>2600</td>
+<td><a href="https://quera.org/problemset/2600/">سوال</td>
+<td><a href="https://gist.github.com/modos/d4df34588f66d0ad0cb3aaeeeea26e9b">جواب</td>  
+</tr> 
+
 
 </table>
