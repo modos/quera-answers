@@ -953,5 +953,12 @@
 <td><a href="https://gist.github.com/modos/d4df34588f66d0ad0cb3aaeeeea26e9b">جواب</td>  
 </tr> 
 
+<tr>
+<td>!آخ جون طرف نیست</td>
+<td>3538</td>
+<td><a href="https://quera.org/problemset/3538/">سوال</td>
+<td><a href="https://gist.github.com/modos/0d6c185ce4f49b0f8e46a334c6b9f3da">جواب</td>  
+</tr> 
+
 
 </table>
