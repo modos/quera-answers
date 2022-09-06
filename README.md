@@ -960,5 +960,12 @@
 <td><a href="https://gist.github.com/modos/0d6c185ce4f49b0f8e46a334c6b9f3da">جواب</td>  
 </tr> 
 
+<tr>
+<td>عدد خودمقلوب</td>
+<td>617</td>
+<td><a href="https://quera.org/problemset/617/">سوال</td>
+<td><a href="https://gist.github.com/modos/5c29ecc09b721c0a2ac7b0162e5e2c5b">جواب</td>  
+</tr> 
+
 
 </table>
