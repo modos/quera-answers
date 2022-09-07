@@ -967,5 +967,12 @@
 <td><a href="https://gist.github.com/modos/5c29ecc09b721c0a2ac7b0162e5e2c5b">جواب</td>  
 </tr> 
 
+<tr>
+<td>شارژ موبایل</td>
+<td>17244</td>
+<td><a href="https://quera.org/problemset/17244/">سوال</td>
+<td><a href="https://gist.github.com/modos/ac540869f304b4bc86ecf5a9fb27c632">جواب</td>  
+</tr> 
+
 
 </table>
