@@ -996,5 +996,19 @@
 <td><a href="https://gist.github.com/modos/aed064f163bd441b50b53a1e5845333c">جواب</td>  
 </tr>
 
+<tr>
+<td>مثلث خیام پاسکال</td>
+<td>9773</td>
+<td><a href="https://quera.org/problemset/9773/">سوال</td>
+<td><a href="https://gist.github.com/modos/c4e648ced50b470d1f616db211f208de">جواب</td>  
+</tr>
+
+<tr>
+<td>مثلث خیام</td>
+<td>595</td>
+<td><a href="https://quera.org/problemset/595/">سوال</td>
+<td><a href="https://gist.github.com/modos/c4e648ced50b470d1f616db211f208de">جواب</td>  
+</tr>
+
 
 </table>
