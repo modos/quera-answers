@@ -987,7 +987,14 @@
 <td>3430</td>
 <td><a href="https://quera.org/problemset/293/">سوال</td>
 <td><a href="https://gist.github.com/modos/cbc7259145733a0f678c68a6c131f52f">جواب</td>  
-</tr> 
+</tr>
+
+<tr>
+<td>لوزی‌های ستاره‌ای</td>
+<td>9773</td>
+<td><a href="https://quera.org/problemset/9773/">سوال</td>
+<td><a href="https://gist.github.com/modos/aed064f163bd441b50b53a1e5845333c">جواب</td>  
+</tr>
 
 
 </table>
