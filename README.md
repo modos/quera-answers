@@ -1010,5 +1010,12 @@
 <td><a href="https://gist.github.com/modos/c4e648ced50b470d1f616db211f208de">جواب</td>  
 </tr>
 
+<tr>
+<td>گردو شکستم</td>
+<td>3540</td>
+<td><a href="https://quera.org/problemset/3540/">سوال</td>
+<td><a href="https://gist.github.com/modos/a0c4e8acdda0cd7edd9391701e633cf5">جواب</td>  
+</tr>
+
 
 </table>
