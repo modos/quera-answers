@@ -1017,5 +1017,12 @@
 <td><a href="https://gist.github.com/modos/a0c4e8acdda0cd7edd9391701e633cf5">جواب</td>  
 </tr>
 
+<tr>
+<td>دوربین مداربسته</td>
+<td>2794</td>
+<td><a href="https://quera.org/problemset/2794/">سوال</td>
+<td><a href="https://gist.github.com/modos/d13226512a099259ffd2b5bbfb157f1a">جواب</td>  
+</tr>
+
 
 </table>
