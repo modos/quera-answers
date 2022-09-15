@@ -1024,5 +1024,12 @@
 <td><a href="https://gist.github.com/modos/d13226512a099259ffd2b5bbfb157f1a">جواب</td>  
 </tr>
 
+<tr>
+<td>فرمانده‌ی بازنشسته</td>
+<td>72874</td>
+<td><a href="https://quera.org/problemset/72874/">سوال</td>
+<td><a href="https://gist.github.com/modos/7ff02e12462ef4510c8f4b966e43e8a6">جواب</td>  
+</tr>
+
 
 </table>
