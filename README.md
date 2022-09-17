@@ -1038,5 +1038,12 @@
 <td><a href="https://gist.github.com/modos/3d138cb24b842d5f1ea37e5a6df31452">جواب</td>  
 </tr>
 
+<tr>
+<td>چاپ لوزی</td>
+<td>590</td>
+<td><a href="https://quera.org/problemset/590/">سوال</td>
+<td><a href="https://gist.github.com/modos/71915fc51f5069a803a4cb03ac8ea8e7">جواب</td>  
+</tr>
+
 
 </table>
