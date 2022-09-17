@@ -1039,7 +1039,7 @@
 </tr>
 
 <tr>
-<td>چاپ لوزی</td>
+<td>ب.م.م و ک.م.م</td>
 <td>590</td>
 <td><a href="https://quera.org/problemset/590/">سوال</td>
 <td><a href="https://gist.github.com/modos/71915fc51f5069a803a4cb03ac8ea8e7">جواب</td>  
