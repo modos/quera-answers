@@ -1031,5 +1031,12 @@
 <td><a href="https://gist.github.com/modos/7ff02e12462ef4510c8f4b966e43e8a6">جواب</td>  
 </tr>
 
+<tr>
+<td>چاپ لوزی</td>
+<td>618</td>
+<td><a href="https://quera.org/problemset/618/">سوال</td>
+<td><a href="https://gist.github.com/modos/3d138cb24b842d5f1ea37e5a6df31452">جواب</td>  
+</tr>
+
 
 </table>
