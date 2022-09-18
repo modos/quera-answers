@@ -1053,4 +1053,12 @@
 </tr>
 
 
+<tr>
+<td>خوش آمدید</td>
+<td>126106</td>
+<td><a href="https://quera.org/problemset/126106/">سوال</td>
+<td><a href="https://gist.github.com/modos/cd94495fe7b6017af1b3bcc0f4df06a9">جواب</td>  
+</tr>
+
+
 </table>
