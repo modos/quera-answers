@@ -1045,5 +1045,12 @@
 <td><a href="https://gist.github.com/modos/71915fc51f5069a803a4cb03ac8ea8e7">جواب</td>  
 </tr>
 
+<tr>
+<td>جاده کشی</td>
+<td>2637</td>
+<td><a href="https://quera.org/problemset/2637/">سوال</td>
+<td><a href="https://gist.github.com/modos/19362872c4e5e6ecf9a1bda3426ae9f8">جواب</td>  
+</tr>
+
 
 </table>
