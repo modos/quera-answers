@@ -1059,6 +1059,13 @@
 <td><a href="https://quera.org/problemset/126106/">سوال</td>
 <td><a href="https://gist.github.com/modos/cd94495fe7b6017af1b3bcc0f4df06a9">جواب</td>  
 </tr>
+  
+<tr>
+<td>خوش آمدید</td>
+<td>655</td>
+<td><a href="https://quera.org/problemset/655/">سوال</td>
+<td><a href="https://gist.github.com/modos/cdc97ace2bd0e61637150cf7d03f07d5">جواب</td>  
+</tr>  
 
 
 </table>
