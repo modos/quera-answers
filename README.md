@@ -1065,7 +1065,14 @@
 <td>655</td>
 <td><a href="https://quera.org/problemset/655/">سوال</td>
 <td><a href="https://gist.github.com/modos/cdc97ace2bd0e61637150cf7d03f07d5">جواب</td>  
-</tr>  
+</tr>
+
+<tr>
+<td>لکنت</td>
+<td>2530</td>
+<td><a href="https://quera.org/problemset/2530/">سوال</td>
+<td><a href="https://gist.github.com/modos/bfef15677a0d904b0d26276a71cc4b67">جواب</td>  
+</tr>
 
 
 </table>
