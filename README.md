@@ -1074,5 +1074,12 @@
 <td><a href="https://gist.github.com/modos/bfef15677a0d904b0d26276a71cc4b67">جواب</td>  
 </tr>
 
+<tr>
+<td>جنایت</td>
+<td>2531</td>
+<td><a href="https://quera.org/problemset/2531/">سوال</td>
+<td><a href="https://gist.github.com/modos/5b921f33f3a1cac740669653d889a77d">جواب</td>  
+</tr>
+
 
 </table>
