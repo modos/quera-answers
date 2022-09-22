@@ -1081,5 +1081,12 @@
 <td><a href="https://gist.github.com/modos/5b921f33f3a1cac740669653d889a77d">جواب</td>  
 </tr>
 
+<tr>
+<td>یک دسترسی ساده</td>
+<td>106386</td>
+<td><a href="https://quera.org/problemset/106386/">سوال</td>
+<td><a href="https://gist.github.com/modos/765acfbab7c2adbe924dfdad3af78bcf">جواب</td>  
+</tr>
+
 
 </table>
