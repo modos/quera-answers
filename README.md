@@ -1089,4 +1089,12 @@
 </tr>
 
 
+<tr>
+<td>گردهمایی</td>
+<td>2532</td>
+<td><a href="https://quera.org/problemset/2532/">سوال</td>
+<td><a href="https://gist.github.com/modos/901f06f9a026a811dec393572f58f152">جواب</td>  
+</tr>
+
+
 </table>
