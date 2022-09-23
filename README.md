@@ -1096,5 +1096,12 @@
 <td><a href="https://gist.github.com/modos/901f06f9a026a811dec393572f58f152">جواب</td>  
 </tr>
 
+<tr>
+<td>دورگیری</td>
+<td>2533</td>
+<td><a href="https://quera.org/problemset/2533/">سوال</td>
+<td><a href="https://gist.github.com/modos/ddf82945c75d48421d2951c8d138e0ea">جواب</td>  
+</tr>
+
 
 </table>
