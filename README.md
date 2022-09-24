@@ -1103,5 +1103,12 @@
 <td><a href="https://gist.github.com/modos/ddf82945c75d48421d2951c8d138e0ea">جواب</td>  
 </tr>
 
+<tr>
+<td>مدرسان شریف</td>
+<td>140039</td>
+<td><a href="https://quera.org/problemset/140039/">سوال</td>
+<td><a href="https://gist.github.com/modos/d8a19f3ac6a96c61fad9a184b7d6c14f">جواب</td>  
+</tr>
+
 
 </table>
