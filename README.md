@@ -1110,5 +1110,12 @@
 <td><a href="https://gist.github.com/modos/d8a19f3ac6a96c61fad9a184b7d6c14f">جواب</td>  
 </tr>
 
+<tr>
+<td>بله یا خیر؟</td>
+<td>106381</td>
+<td><a href="https://quera.org/problemset/106381/">سوال</td>
+<td><a href="https://gist.github.com/modos/b1e833345c9274ffecd7cda1dd904c96">جواب</td>  
+</tr>
+
 
 </table>
