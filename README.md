@@ -1117,5 +1117,12 @@
 <td><a href="https://gist.github.com/modos/b1e833345c9274ffecd7cda1dd904c96">جواب</td>  
 </tr>
 
+<tr>
+<td>زوجیت</td>
+<td>140035</td>
+<td><a href="https://quera.org/problemset/140035/">سوال</td>
+<td><a href="https://gist.github.com/modos/99fe9f244ea6a40a15a73b12bf4dd25a">جواب</td>  
+</tr>
+
 
 </table>
