@@ -1124,5 +1124,12 @@
 <td><a href="https://gist.github.com/modos/99fe9f244ea6a40a15a73b12bf4dd25a">جواب</td>  
 </tr>
 
+<tr>
+<td>اسنپ در شکرستان</td>
+<td>8938</td>
+<td><a href="https://quera.org/problemset/8938/">سوال</td>
+<td><a href="https://gist.github.com/modos/53eb1034dcbf14bec31ea8f43155b050">جواب</td>  
+</tr>
+
 
 </table>
