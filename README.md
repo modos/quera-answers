@@ -1131,5 +1131,12 @@
 <td><a href="https://gist.github.com/modos/53eb1034dcbf14bec31ea8f43155b050">جواب</td>  
 </tr>
 
+<tr>
+<td>Bank Card Verifier</td>
+<td>13819</td>
+<td><a href="https://quera.org/problemset/13819/">سوال</td>
+<td><a href="https://gist.github.com/modos/08735e47e154beb3099404d78268a991">جواب</td>  
+</tr>
+
 
 </table>
