@@ -1145,5 +1145,12 @@
 <td><a href="https://gist.github.com/modos/62b04e4f9bdadbc8da70527108808452">جواب</td>  
 </tr>
 
+<tr>
+<td>هندزفری‌ها</td>
+<td>110014</td>
+<td><a href="https://quera.org/problemset/110014/">سوال</td>
+<td><a href="https://gist.github.com/modos/a2dcb193361b02893ec5e5fe2c3df248">جواب</td>  
+</tr>
+
 
 </table>
