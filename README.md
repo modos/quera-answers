@@ -1152,5 +1152,12 @@
 <td><a href="https://gist.github.com/modos/a2dcb193361b02893ec5e5fe2c3df248">جواب</td>  
 </tr>
 
+<tr>
+<td>منو پیاده کن</td>
+<td>140029</td>
+<td><a href="https://quera.org/problemset/140029/">سوال</td>
+<td><a href="https://gist.github.com/modos/38333b7a2da8363c7ab910dfa05ce88e">جواب</td>  
+</tr>
+
 
 </table>
