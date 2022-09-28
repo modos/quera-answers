@@ -1138,5 +1138,12 @@
 <td><a href="https://gist.github.com/modos/08735e47e154beb3099404d78268a991">جواب</td>  
 </tr>
 
+<tr>
+<td>Log4j آسیب‌پذیری</td>
+<td>126109</td>
+<td><a href="https://quera.org/problemset/126109/">سوال</td>
+<td><a href="https://gist.github.com/modos/62b04e4f9bdadbc8da70527108808452">جواب</td>  
+</tr>
+
 
 </table>
