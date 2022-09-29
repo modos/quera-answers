@@ -1159,5 +1159,12 @@
 <td><a href="https://gist.github.com/modos/38333b7a2da8363c7ab910dfa05ce88e">جواب</td>  
 </tr>
 
+<tr>
+<td>صدادار</td>
+<td>140033</td>
+<td><a href="https://quera.org/problemset/140033/">سوال</td>
+<td><a href="https://gist.github.com/modos/deab91bb4e0a5eee76254bc72aeca76a">جواب</td>  
+</tr>
+
 
 </table>
