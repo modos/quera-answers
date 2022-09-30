@@ -1166,5 +1166,12 @@
 <td><a href="https://gist.github.com/modos/deab91bb4e0a5eee76254bc72aeca76a">جواب</td>  
 </tr>
 
+<tr>
+<td>خوش آمد</td>
+<td>123798</td>
+<td><a href="https://quera.org/problemset/123798/">سوال</td>
+<td><a href="https://gist.github.com/modos/0de40a71ac0901b06994d608723d5288">جواب</td>  
+</tr>
+
 
 </table>
