@@ -1185,6 +1185,13 @@
 <td>123806</td>
 <td><a href="https://quera.org/problemset/123806/">سوال</td>
 <td><a href="https://gist.github.com/modos/c2f88148a72882d82470038ef592b216">جواب</td>  
+</tr>  
+  
+<tr>
+<td>The Departed (2006)</td>
+<td>132251</td>
+<td><a href="https://quera.org/problemset/132251/">سوال</td>
+<td><a href="https://gist.github.com/modos/6a793e611254a09d2dacc5fc59d965fa">جواب</td>  
 </tr>    
 
 
