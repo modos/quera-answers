@@ -1241,6 +1241,13 @@
 <td>140028</td>
 <td><a href="https://quera.org/problemset/140028/">سوال</td>
 <td><a href="https://gist.github.com/modos/556a93b10176c902e86869ba05e0caaf">جواب</td>  
-</tr>     
+</tr>  
+
+<tr>
+<td>دو شغله</td>
+<td>111990</td>
+<td><a href="https://quera.org/problemset/111990/">سوال</td>
+<td><a href="https://gist.github.com/modos/6fd1b03389784f326c1fe87354e018f3">جواب</td>  
+</tr>  
 
 </table>
