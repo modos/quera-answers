@@ -1206,7 +1206,13 @@
 <td>147193</td>
 <td><a href="https://quera.org/problemset/147193/">سوال</td>
 <td><a href="https://gist.github.com/modos/29142a24d09c796d420c4320cb81ee27">جواب</td>  
-</tr>     
-
+</tr>
+     
+<tr>
+<td>زبان عجیب</td>
+<td>140031</td>
+<td><a href="https://quera.org/problemset/140031/">سوال</td>
+<td><a href="https://gist.github.com/modos/5879cab7e863f21047d9f9eb8801d41b">جواب</td>  
+</tr>
 
 </table>
