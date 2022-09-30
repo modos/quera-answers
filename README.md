@@ -1236,4 +1236,11 @@
 <td><a href="https://gist.github.com/modos/17935e15d1a9574cdc1520b9e467be6e">جواب</td>  
 </tr>   
 
+<tr>
+<td>۲  ای۲</td>
+<td>140028</td>
+<td><a href="https://quera.org/problemset/140028/">سوال</td>
+<td><a href="https://gist.github.com/modos/556a93b10176c902e86869ba05e0caaf">جواب</td>  
+</tr>     
+
 </table>
