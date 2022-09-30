@@ -1227,6 +1227,13 @@
 <td>140027</td>
 <td><a href="https://quera.org/problemset/140027/">سوال</td>
 <td><a href="https://gist.github.com/modos/e9b1d484787e2918d94be9f3d1c577ba">جواب</td>  
-</tr>    
+</tr> 
+  
+<tr>
+<td>الگو ساده</td>
+<td>140037</td>
+<td><a href="https://quera.org/problemset/140037/">سوال</td>
+<td><a href="https://gist.github.com/modos/17935e15d1a9574cdc1520b9e467be6e">جواب</td>  
+</tr>   
 
 </table>
