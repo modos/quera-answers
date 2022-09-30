@@ -1172,6 +1172,13 @@
 <td><a href="https://quera.org/problemset/123798/">سوال</td>
 <td><a href="https://gist.github.com/modos/0de40a71ac0901b06994d608723d5288">جواب</td>  
 </tr>
+  
+<tr>
+<td>اتاق فرار</td>
+<td>123801</td>
+<td><a href="https://quera.org/problemset/123801/">سوال</td>
+<td><a href="https://gist.github.com/modos/9362ddb4847845443c5b1714e34504f7">جواب</td>  
+</tr>  
 
 
 </table>
