@@ -1221,5 +1221,12 @@
 <td><a href="https://quera.org/problemset/140038/">سوال</td>
 <td><a href="https://gist.github.com/modos/a9af006d0f36dfac36a41ede15314deb">جواب</td>  
 </tr>  
+  
+<tr>
+<td>بهترین</td>
+<td>140027</td>
+<td><a href="https://quera.org/problemset/140027/">سوال</td>
+<td><a href="https://gist.github.com/modos/e9b1d484787e2918d94be9f3d1c577ba">جواب</td>  
+</tr>    
 
 </table>
