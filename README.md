@@ -1214,5 +1214,12 @@
 <td><a href="https://quera.org/problemset/140031/">سوال</td>
 <td><a href="https://gist.github.com/modos/5879cab7e863f21047d9f9eb8801d41b">جواب</td>  
 </tr>
+  
+<tr>
+<td>آنلاین</td>
+<td>140038</td>
+<td><a href="https://quera.org/problemset/140038/">سوال</td>
+<td><a href="https://gist.github.com/modos/a9af006d0f36dfac36a41ede15314deb">جواب</td>  
+</tr>  
 
 </table>
