@@ -1192,7 +1192,14 @@
 <td>132251</td>
 <td><a href="https://quera.org/problemset/132251/">سوال</td>
 <td><a href="https://gist.github.com/modos/6a793e611254a09d2dacc5fc59d965fa">جواب</td>  
-</tr>    
+</tr> 
+  
+<tr>
+<td>پشمال‌آقا</td>
+<td>72877</td>
+<td><a href="https://quera.org/problemset/72877/">سوال</td>
+<td><a href="https://gist.github.com/modos/a55eea55795916f64c80939a7aa0ba43">جواب</td>  
+</tr>   
 
 
 </table>
