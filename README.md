@@ -1200,6 +1200,13 @@
 <td><a href="https://quera.org/problemset/72877/">سوال</td>
 <td><a href="https://gist.github.com/modos/a55eea55795916f64c80939a7aa0ba43">جواب</td>  
 </tr>   
+  
+<tr>
+<td>معادله خط</td>
+<td>147193</td>
+<td><a href="https://quera.org/problemset/147193/">سوال</td>
+<td><a href="https://gist.github.com/modos/29142a24d09c796d420c4320cb81ee27">جواب</td>  
+</tr>     
 
 
 </table>
