@@ -1179,6 +1179,13 @@
 <td><a href="https://quera.org/problemset/123801/">سوال</td>
 <td><a href="https://gist.github.com/modos/9362ddb4847845443c5b1714e34504f7">جواب</td>  
 </tr>  
+  
+<tr>
+<td>ماشین حساب</td>
+<td>123806</td>
+<td><a href="https://quera.org/problemset/123806/">سوال</td>
+<td><a href="https://gist.github.com/modos/c2f88148a72882d82470038ef592b216">جواب</td>  
+</tr>    
 
 
 </table>
