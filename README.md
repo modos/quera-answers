@@ -1256,5 +1256,12 @@
 <td><a href="https://quera.org/problemset/41181/">سوال</td>
 <td><a href="https://gist.github.com/modos/5f9e30c1cffb7d8b9fa92f6b18c79c52">جواب</td>  
 </tr> 
+  
+<tr>
+<td>غُل‌بانو و دوقلوهایش</td>
+<td>72876</td>
+<td><a href="https://quera.org/problemset/72876/">سوال</td>
+<td><a href="https://gist.github.com/modos/b537741e1e3cdfec00f9ad2ff4c5f4fe">جواب</td>  
+</tr>   
 
 </table>
