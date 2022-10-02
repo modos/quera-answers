@@ -1262,6 +1262,13 @@
 <td>72876</td>
 <td><a href="https://quera.org/problemset/72876/">سوال</td>
 <td><a href="https://gist.github.com/modos/b537741e1e3cdfec00f9ad2ff4c5f4fe">جواب</td>  
+</tr> 
+  
+<tr>
+<td>عوامل اول</td>
+<td>298</td>
+<td><a href="https://quera.org/problemset/298/">سوال</td>
+<td><a href="https://gist.github.com/modos/6b300ea4a73203dccfb4d6c45ad1bbce">جواب</td>  
 </tr>   
 
 </table>
