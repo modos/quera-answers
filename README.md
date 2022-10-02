@@ -1248,6 +1248,13 @@
 <td>111990</td>
 <td><a href="https://quera.org/problemset/111990/">سوال</td>
 <td><a href="https://gist.github.com/modos/6fd1b03389784f326c1fe87354e018f3">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>Ceremony</td>
+<td>41181</td>
+<td><a href="https://quera.org/problemset/41181/">سوال</td>
+<td><a href="https://gist.github.com/modos/5f9e30c1cffb7d8b9fa92f6b18c79c52">جواب</td>  
+</tr> 
 
 </table>
