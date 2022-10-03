@@ -1269,6 +1269,13 @@
 <td>298</td>
 <td><a href="https://quera.org/problemset/298/">سوال</td>
 <td><a href="https://gist.github.com/modos/6b300ea4a73203dccfb4d6c45ad1bbce">جواب</td>  
-</tr>   
+</tr>
+
+<tr>
+<td>Congestion Charging Zone</td>
+<td>26117</td>
+<td><a href="https://quera.org/problemset/26117/">سوال</td>
+<td><a href="https://gist.github.com/modos/bac1cc8ecb4525ab02adbb0fdb6d5d46">جواب</td>  
+</tr>
 
 </table>
