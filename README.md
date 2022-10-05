@@ -1298,5 +1298,12 @@
 <td><a href="https://quera.org/problemset/72881/">سوال</td>
 <td><a href="https://gist.github.com/modos/51f84581a3143e3341b59890f838b853">جواب</td>  
 </tr>
+  
+<tr>
+<td>نواحی سرویس دهی</td>
+<td>136483</td>
+<td><a href="https://quera.org/problemset/136483/">سوال</td>
+<td><a href="https://gist.github.com/modos/36f6ab82baa3a2f91d7bc53bc7fcc12c">جواب</td>  
+</tr>  
 
 </table>
