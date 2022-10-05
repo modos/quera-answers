@@ -1292,4 +1292,11 @@
 <td><a href="https://gist.github.com/modos/9a93a4541d72c235b6fba9c68ee13265">جواب</td>  
 </tr>
 
+<tr>
+<td>سوپ سبزیجات</td>
+<td>72881</td>
+<td><a href="https://quera.org/problemset/72881/">سوال</td>
+<td><a href="https://gist.github.com/modos/51f84581a3143e3341b59890f838b853">جواب</td>  
+</tr>
+
 </table>
