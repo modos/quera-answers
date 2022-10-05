@@ -1285,4 +1285,11 @@
 <td><a href="https://gist.github.com/modos/7d4ce0349da8aee6b1f7a0f411e462c9">جواب</td>  
 </tr>
 
+<tr>
+<td>بمب بازی</td>
+<td>3407</td>
+<td><a href="https://quera.org/problemset/3407/">سوال</td>
+<td><a href="https://gist.github.com/modos/9a93a4541d72c235b6fba9c68ee13265">جواب</td>  
+</tr>
+
 </table>
