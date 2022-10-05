@@ -1311,6 +1311,13 @@
 <td>10163</td>
 <td><a href="https://quera.org/problemset/10163/">سوال</td>
 <td><a href="https://gist.github.com/modos/c635f065aa7bf6af751bc059237a240d">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>بازی</td>
+<td>52543</td>
+<td><a href="https://quera.org/problemset/52543/">سوال</td>
+<td><a href="https://gist.github.com/modos/09f2aa593f8153a0e2efd0abff1a583b">جواب</td>  
+</tr> 
 
 </table>
