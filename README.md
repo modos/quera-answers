@@ -1306,4 +1306,11 @@
 <td><a href="https://gist.github.com/modos/36f6ab82baa3a2f91d7bc53bc7fcc12c">جواب</td>  
 </tr>  
 
+<tr>
+<td>تیم ملی نخودخوری در برره</td>
+<td>10163</td>
+<td><a href="https://quera.org/problemset/10163/">سوال</td>
+<td><a href="https://gist.github.com/modos/c635f065aa7bf6af751bc059237a240d">جواب</td>  
+</tr>  
+
 </table>
