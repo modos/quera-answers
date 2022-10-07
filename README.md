@@ -1320,4 +1320,11 @@
 <td><a href="https://gist.github.com/modos/09f2aa593f8153a0e2efd0abff1a583b">جواب</td>  
 </tr> 
 
+<tr>
+<td>تعمیر دیوار</td>
+<td>6580</td>
+<td><a href="https://quera.org/problemset/6580/">سوال</td>
+<td><a href="https://gist.github.com/modos/3bd17e2b00fc5596e437a293fe561e88">جواب</td>  
+</tr> 
+
 </table>
