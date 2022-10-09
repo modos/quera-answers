@@ -1327,4 +1327,11 @@
 <td><a href="https://gist.github.com/modos/3bd17e2b00fc5596e437a293fe561e88">جواب</td>  
 </tr> 
 
+<tr>
+<td>مربع توخالی</td>
+<td>283</td>
+<td><a href="https://quera.org/problemset/283/">سوال</td>
+<td><a href="https://gist.github.com/modos/a875bbd507f65746570e3a6146a1189b">جواب</td>  
+</tr> 
+
 </table>
