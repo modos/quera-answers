@@ -1332,6 +1332,13 @@
 <td>283</td>
 <td><a href="https://quera.org/problemset/283/">سوال</td>
 <td><a href="https://gist.github.com/modos/a875bbd507f65746570e3a6146a1189b">جواب</td>  
-</tr> 
+</tr>
+
+<tr>
+<td>ب.م.م</td>
+<td>305</td>
+<td><a href="https://quera.org/problemset/305/">سوال</td>
+<td><a href="https://gist.github.com/modos/25184b987b7b6051bcf5e414385bb563">جواب</td>  
+</tr>
 
 </table>
