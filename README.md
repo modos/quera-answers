@@ -1341,4 +1341,11 @@
 <td><a href="https://gist.github.com/modos/25184b987b7b6051bcf5e414385bb563">جواب</td>  
 </tr>
 
+<tr>
+<td>اعداد هگزا دسیمال</td>
+<td>277</td>
+<td><a href="https://quera.org/problemset/277/">سوال</td>
+<td><a href="https://gist.github.com/modos/ef343db6b2ba4d307518820d6bc2b10a">جواب</td>  
+</tr>
+
 </table>
