@@ -1348,4 +1348,11 @@
 <td><a href="https://gist.github.com/modos/ef343db6b2ba4d307518820d6bc2b10a">جواب</td>  
 </tr>
 
+<tr>
+<td>کاغذ کادو چهارضلعی</td>
+<td>44077</td>
+<td><a href="https://quera.org/problemset/44077/">سوال</td>
+<td><a href="https://gist.github.com/modos/1b794052595e2b4a5815b5cd05f16c6b">جواب</td>  
+</tr>
+
 </table>
