@@ -1355,4 +1355,11 @@
 <td><a href="https://gist.github.com/modos/1b794052595e2b4a5815b5cd05f16c6b">جواب</td>  
 </tr>
 
+<tr>
+<td>بازی منطقی در برره</td>
+<td>10164</td>
+<td><a href="https://quera.org/problemset/10164/">سوال</td>
+<td><a href="https://gist.github.com/modos/c9899b9f81a22ee1ec8d9deb7dd4373f">جواب</td>  
+</tr>
+
 </table>
