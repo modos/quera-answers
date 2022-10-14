@@ -1362,4 +1362,11 @@
 <td><a href="https://gist.github.com/modos/c9899b9f81a22ee1ec8d9deb7dd4373f">جواب</td>  
 </tr>
 
+<tr>
+<td>یه قل دو قل در برره</td>
+<td>10165</td>
+<td><a href="https://quera.org/problemset/10165/">سوال</td>
+<td><a href="https://gist.github.com/modos/4ded03f44eb1dd429d487a20322a2d28">جواب</td>  
+</tr>
+
 </table>
