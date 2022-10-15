@@ -1369,4 +1369,11 @@
 <td><a href="https://gist.github.com/modos/4ded03f44eb1dd429d487a20322a2d28">جواب</td>  
 </tr>
 
+<tr>
+<td>شرکت پالایش و پخش نخود در برره</td>
+<td>10167</td>
+<td><a href="https://quera.org/problemset/10167/">سوال</td>
+<td><a href="https://gist.github.com/modos/920ded851718e7734f3ff0a3c96ea307">جواب</td>  
+</tr>
+
 </table>
