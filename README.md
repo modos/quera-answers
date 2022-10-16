@@ -1376,4 +1376,11 @@
 <td><a href="https://gist.github.com/modos/920ded851718e7734f3ff0a3c96ea307">جواب</td>  
 </tr>
 
+<tr>
+<td>سپیده</td>
+<td>31020</td>
+<td><a href="https://quera.org/problemset/31020/">سوال</td>
+<td><a href="https://gist.github.com/modos/335d236c7e7a44e4095c82588100fbd5">جواب</td>  
+</tr>
+
 </table>
