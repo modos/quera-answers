@@ -1383,4 +1383,11 @@
 <td><a href="https://gist.github.com/modos/335d236c7e7a44e4095c82588100fbd5">جواب</td>  
 </tr>
 
+<tr>
+<td>بازی با اعداد در برره</td>
+<td>10168</td>
+<td><a href="https://quera.org/problemset/10168/">سوال</td>
+<td><a href="https://gist.github.com/modos/31b041b4a014723c369fa39f79ab434c">جواب</td>  
+</tr>
+
 </table>
