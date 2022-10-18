@@ -1390,4 +1390,11 @@
 <td><a href="https://gist.github.com/modos/31b041b4a014723c369fa39f79ab434c">جواب</td>  
 </tr>
 
+<tr>
+<td>شرکت‌های هرمی در برره</td>
+<td>10169</td>
+<td><a href="https://quera.org/problemset/10169/">سوال</td>
+<td><a href="https://gist.github.com/modos/1dbf395ee236895c939fae905c44f8f6">جواب</td>  
+</tr>
+
 </table>
