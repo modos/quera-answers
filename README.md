@@ -1397,4 +1397,11 @@
 <td><a href="https://gist.github.com/modos/1dbf395ee236895c939fae905c44f8f6">جواب</td>  
 </tr>
 
+<tr>
+<td>عدالت قضایی برره</td>
+<td>10170</td>
+<td><a href="https://quera.org/problemset/10170/">سوال</td>
+<td><a href="https://gist.github.com/modos/3439fab805aec043fae887f9a999aed7">جواب</td>  
+</tr>
+
 </table>
