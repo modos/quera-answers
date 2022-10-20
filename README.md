@@ -1404,4 +1404,11 @@
 <td><a href="https://gist.github.com/modos/3439fab805aec043fae887f9a999aed7">جواب</td>  
 </tr>
 
+<tr>
+<td>بازه بازی در برره</td>
+<td>10171</td>
+<td><a href="https://quera.org/problemset/10171/">سوال</td>
+<td><a href="https://gist.github.com/modos/702cc16621df1830605686c97a143cdc">جواب</td>  
+</tr>
+
 </table>
