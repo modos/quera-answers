@@ -1411,4 +1411,11 @@
 <td><a href="https://gist.github.com/modos/702cc16621df1830605686c97a143cdc">جواب</td>  
 </tr>
 
+<tr>
+<td>مربّاها و مشکلات اقتصادی</td>
+<td>20249</td>
+<td><a href="https://quera.org/problemset/20249/">سوال</td>
+<td><a href="https://gist.github.com/modos/8ecfb87a2eb55e7f5e30c19569052032">جواب</td>  
+</tr>
+
 </table>
