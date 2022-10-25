@@ -1417,5 +1417,12 @@
 <td><a href="https://quera.org/problemset/20249/">سوال</td>
 <td><a href="https://gist.github.com/modos/8ecfb87a2eb55e7f5e30c19569052032">جواب</td>  
 </tr>
+  
+<tr>
+<td>!کلاس کد</td>
+<td>66864</td>
+<td><a href="https://quera.org/problemset/66864/">سوال</td>
+<td><a href="https://gist.github.com/modos/71707edf4e4acc9fb256a49cf3ba7307">جواب</td>  
+</tr>  
 
 </table>
