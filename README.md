@@ -1419,10 +1419,10 @@
 </tr>
   
 <tr>
-<td>!کلاس کد</td>
-<td>66864</td>
-<td><a href="https://quera.org/problemset/66864/">سوال</td>
-<td><a href="https://gist.github.com/modos/71707edf4e4acc9fb256a49cf3ba7307">جواب</td>  
-</tr>  
+<td>جشن هدیه ها</td>
+<td>660</td>
+<td><a href="https://quera.org/problemset/660/">سوال</td>
+<td><a href="https://gist.github.com/modos/9edaa7421d175055291fc1716e3876d6">جواب</td>  
+</tr>
 
 </table>
