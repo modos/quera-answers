@@ -1425,4 +1425,11 @@
 <td><a href="https://gist.github.com/modos/9edaa7421d175055291fc1716e3876d6">جواب</td>  
 </tr>
 
+<tr>
+<td>Joos</td>
+<td>18310</td>
+<td><a href="https://quera.org/problemset/18310/">سوال</td>
+<td><a href="https://gist.github.com/modos/2c1a9c6fe87c06816345b742df2becdd">جواب</td>  
+</tr>
+
 </table>
