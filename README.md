@@ -1432,4 +1432,11 @@
 <td><a href="https://gist.github.com/modos/2c1a9c6fe87c06816345b742df2becdd">جواب</td>  
 </tr>
 
+<tr>
+<td>Economize!</td>
+<td>18311</td>
+<td><a href="https://quera.org/problemset/18311/">سوال</td>
+<td><a href="https://gist.github.com/modos/60d2dabbfb30ffa8912fcae7478e998c">جواب</td>  
+</tr>
+
 </table>
