@@ -1439,4 +1439,11 @@
 <td><a href="https://gist.github.com/modos/60d2dabbfb30ffa8912fcae7478e998c">جواب</td>  
 </tr>
 
+<tr>
+<td>Gheyme</td>
+<td>18312</td>
+<td><a href="https://quera.org/problemset/18312/">سوال</td>
+<td><a href="https://gist.github.com/modos/eb6e4873f909dba5922ded592911d132">جواب</td>  
+</tr>
+
 </table>
