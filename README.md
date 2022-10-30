@@ -1446,4 +1446,11 @@
 <td><a href="https://gist.github.com/modos/eb6e4873f909dba5922ded592911d132">جواب</td>  
 </tr>
 
+<tr>
+<td>حلزون مختصاتی</td>
+<td>597</td>
+<td><a href="https://quera.org/problemset/597/">سوال</td>
+<td><a href="https://gist.github.com/modos/779f1f050fc6490aef6fdfa88e1075a4">جواب</td>  
+</tr>
+
 </table>
