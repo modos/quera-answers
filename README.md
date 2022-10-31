@@ -1453,4 +1453,11 @@
 <td><a href="https://gist.github.com/modos/779f1f050fc6490aef6fdfa88e1075a4">جواب</td>  
 </tr>
 
+<tr>
+<td>باقر خسته‌ست ولی بی‌فرهنگ نه</td>
+<td>10232</td>
+<td><a href="https://quera.org/problemset/10232/">سوال</td>
+<td><a href="https://gist.github.com/modos/922fc56dd318bff35d0ca3aa0f3de54d">جواب</td>  
+</tr>
+
 </table>
