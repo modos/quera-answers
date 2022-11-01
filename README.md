@@ -1460,4 +1460,11 @@
 <td><a href="https://gist.github.com/modos/922fc56dd318bff35d0ca3aa0f3de54d">جواب</td>  
 </tr>
 
+<tr>
+<td>Cake</td>
+<td>41172</td>
+<td><a href="https://quera.org/problemset/41172/">سوال</td>
+<td><a href="https://gist.github.com/modos/8f8f947ea3555be23d4503d5dbe6ea1b">جواب</td>  
+</tr>
+
 </table>
