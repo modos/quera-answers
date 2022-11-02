@@ -1467,4 +1467,11 @@
 <td><a href="https://gist.github.com/modos/8f8f947ea3555be23d4503d5dbe6ea1b">جواب</td>  
 </tr>
 
+<tr>
+<td>SIMD</td>
+<td>113613</td>
+<td><a href="https://quera.org/problemset/113613/">سوال</td>
+<td><a href="https://gist.github.com/modos/36412955a5f6e05b4ce925703d954953">جواب</td>  
+</tr>
+
 </table>
