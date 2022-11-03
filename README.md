@@ -1474,4 +1474,11 @@
 <td><a href="https://gist.github.com/modos/36412955a5f6e05b4ce925703d954953">جواب</td>  
 </tr>
 
+<tr>
+<td>سوال اول</td>
+<td>14445</td>
+<td><a href="https://quera.org/problemset/14445/">سوال</td>
+<td><a href="https://gist.github.com/modos/8db005d74cb0782ebf3e0eb1809db59b">جواب</td>  
+</tr>
+
 </table>
