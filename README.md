@@ -1485,7 +1485,7 @@
 <td>بیکاری در دربار</td>
 <td>8939</td>
 <td><a href="https://quera.org/problemset/8939/">سوال</td>
-<td><a href="https://gist.github.com/modos/72913cc4a17583d28259435afdbeeecc">جواب</td>  
+<td><a href="https://gist.github.com/modos/41c81ea2ffe2b27b0d50fb5c585bcae3">جواب</td>  
 </tr>
 
 </table>
