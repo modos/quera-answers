@@ -1481,4 +1481,11 @@
 <td><a href="https://gist.github.com/modos/8db005d74cb0782ebf3e0eb1809db59b">جواب</td>  
 </tr>
 
+<tr>
+<td>بیکاری در دربار</td>
+<td>8939</td>
+<td><a href="https://quera.org/problemset/8939/">سوال</td>
+<td><a href="https://gist.github.com/modos/72913cc4a17583d28259435afdbeeecc">جواب</td>  
+</tr>
+
 </table>
