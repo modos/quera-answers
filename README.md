@@ -1488,4 +1488,11 @@
 <td><a href="https://gist.github.com/modos/41c81ea2ffe2b27b0d50fb5c585bcae3">جواب</td>  
 </tr>
 
+<tr>
+<td>!تقلب ممنوع</td>
+<td>8940</td>
+<td><a href="https://quera.org/problemset/8940/">سوال</td>
+<td><a href="https://gist.github.com/modos/5d379198c63f33bdfa336152e94a760b">جواب</td>  
+</tr>
+
 </table>
