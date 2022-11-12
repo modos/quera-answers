@@ -1495,4 +1495,11 @@
 <td><a href="https://gist.github.com/modos/5d379198c63f33bdfa336152e94a760b">جواب</td>  
 </tr>
 
+<tr>
+<td>مجید و ماژیک‌هاش</td>
+<td>9109</td>
+<td><a href="https://quera.org/problemset/9109/">سوال</td>
+<td><a href="https://gist.github.com/modos/ca06b9e415326e07dce6fdc8cbfbedb4">جواب</td>  
+</tr>
+
 </table>
