@@ -1502,4 +1502,11 @@
 <td><a href="https://gist.github.com/modos/ca06b9e415326e07dce6fdc8cbfbedb4">جواب</td>  
 </tr>
 
+<tr>
+<td>مستطیل</td>
+<td>3541</td>
+<td><a href="https://quera.org/problemset/3541/">سوال</td>
+<td><a href="https://gist.github.com/modos/1efc507f360c9d1ae87c048685e682c1">جواب</td>  
+</tr>
+
 </table>
