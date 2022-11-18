@@ -1503,7 +1503,7 @@
 </tr>
 
 <tr>
-<td>مستطیل</td>
+<td>مستطیل بد</td>
 <td>3541</td>
 <td><a href="https://quera.org/problemset/3541/">سوال</td>
 <td><a href="https://gist.github.com/modos/1efc507f360c9d1ae87c048685e682c1">جواب</td>  
