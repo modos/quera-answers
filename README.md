@@ -1516,4 +1516,11 @@
 <td><a href="https://gist.github.com/modos/9b314f7cb0eec808d3be8c645c89ccb7">جواب</td>  
 </tr>
 
+<tr>
+<td>شنگول و منگول</td>
+<td>710</td>
+<td><a href="https://quera.org/problemset/710/">سوال</td>
+<td><a href="https://gist.github.com/modos/ed36d0fdb68617a45fb3919f11c8d159">جواب</td>  
+</tr>
+
 </table>
