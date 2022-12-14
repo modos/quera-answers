@@ -1523,4 +1523,11 @@
 <td><a href="https://gist.github.com/modos/ed36d0fdb68617a45fb3919f11c8d159">جواب</td>  
 </tr>
 
+<tr>
+<td>مبنای آینه ای</td>
+<td>651</td>
+<td><a href="https://quera.org/problemset/651/">سوال</td>
+<td><a href="https://gist.github.com/modos/1465af3edce2dbe83f2294f183b31361">جواب</td>  
+</tr>
+
 </table>
