@@ -1530,4 +1530,11 @@
 <td><a href="https://gist.github.com/modos/1465af3edce2dbe83f2294f183b31361">جواب</td>  
 </tr>
 
+<tr>
+<td>فرزاد کارکن</td>
+<td>658</td>
+<td><a href="https://quera.org/problemset/658/">سوال</td>
+<td><a href="https://gist.github.com/modos/8c1f9a0c360aeb0ead79c4586f93500f">جواب</td>  
+</tr>
+
 </table>
