@@ -1537,4 +1537,11 @@
 <td><a href="https://gist.github.com/modos/8c1f9a0c360aeb0ead79c4586f93500f">جواب</td>  
 </tr>
 
+<tr>
+<td>نردبونی</td>
+<td>640</td>
+<td><a href="https://quera.org/problemset/640/">سوال</td>
+<td><a href="https://gist.github.com/modos/33af922ba306b5b0764d810df5b54174">جواب</td>  
+</tr>
+
 </table>
