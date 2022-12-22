@@ -1544,4 +1544,11 @@
 <td><a href="https://gist.github.com/modos/33af922ba306b5b0764d810df5b54174">جواب</td>  
 </tr>
 
+<tr>
+<td>عدد خوب</td>
+<td>66861</td>
+<td><a href="https://quera.org/problemset/66861/">سوال</td>
+<td><a href="https://gist.github.com/modos/0c6f04cc55910fee1d25bced16e5d8b0">جواب</td>  
+</tr>
+
 </table>
