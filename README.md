@@ -1553,7 +1553,7 @@
 
 <tr>
 <td>نوبرانه</td>
-<td>104588">سوال</td></td>
+<td>104588</td>
 <td><a href="https://quera.org/problemset/104588/">سوال</td>
 <td><a href="https://gist.github.com/modos/da13b2e509239065a4eee87acab25bb3">جواب</td>  
 </tr>
