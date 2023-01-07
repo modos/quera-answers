@@ -1558,4 +1558,11 @@
 <td><a href="https://gist.github.com/modos/da13b2e509239065a4eee87acab25bb3">جواب</td>  
 </tr>
 
+<tr>
+<td>ضرب ماتریس ها</td>
+<td>607</td>
+<td><a href="https://quera.org/problemset/607/">سوال</td>
+<td><a href="https://gist.github.com/modos/fe190aadafe37a49a3308552b4c306f4">جواب</td>  
+</tr>
+
 </table>
