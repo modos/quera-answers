@@ -1565,4 +1565,11 @@
 <td><a href="https://gist.github.com/modos/fe190aadafe37a49a3308552b4c306f4">جواب</td>  
 </tr>
 
+<tr>
+<td>هم‌نهشتی اعداد</td>
+<td>592</td>
+<td><a href="https://quera.org/problemset/592/">سوال</td>
+<td><a href="https://gist.github.com/modos/2fe5416902969591c6fe848bb1026447">جواب</td>  
+</tr>
+
 </table>
