@@ -1571,5 +1571,12 @@
 <td><a href="https://quera.org/problemset/592/">سوال</td>
 <td><a href="https://gist.github.com/modos/2fe5416902969591c6fe848bb1026447">جواب</td>  
 </tr>
+  
+<tr>
+<td>نمایش رنگ‌ها</td>
+<td>15689</td>
+<td><a href="https://quera.org/problemset/15689/">سوال</td>
+<td><a href="https://gist.github.com/modos/1bccee9be04f82353689ccc760eab190">جواب</td>  
+</tr>  
 
 </table>
