@@ -1578,5 +1578,12 @@
 <td><a href="https://quera.org/problemset/15689/">سوال</td>
 <td><a href="https://gist.github.com/modos/1bccee9be04f82353689ccc760eab190">جواب</td>  
 </tr>  
+  
+<tr>
+<td>جابجایی ساده</td>
+<td>15682</td>
+<td><a href="https://quera.org/problemset/15682/">سوال</td>
+<td><a href="https://gist.github.com/modos/0e020150f0bc8f3013f6741c23a2110e">جواب</td>  
+</tr>    
 
 </table>
