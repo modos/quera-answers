@@ -1584,6 +1584,13 @@
 <td>15682</td>
 <td><a href="https://quera.org/problemset/15682/">سوال</td>
 <td><a href="https://gist.github.com/modos/0e020150f0bc8f3013f6741c23a2110e">جواب</td>  
-</tr>    
+</tr>
+
+<tr>
+<td>دیدگاه ساده</td>
+<td>15681</td>
+<td><a href="https://quera.org/problemset/15681/">سوال</td>
+<td><a href="https://gist.github.com/modos/65eee1734fc3428d1772d105ecdc7dad">جواب</td>  
+</tr>
 
 </table>
