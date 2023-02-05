@@ -1593,4 +1593,11 @@
 <td><a href="https://gist.github.com/modos/65eee1734fc3428d1772d105ecdc7dad">جواب</td>  
 </tr>
 
+<tr>
+<td>معجون سوسک قرمز و اسفناج گندیده</td>
+<td>72880</td>
+<td><a href="https://quera.org/problemset/72880/">سوال</td>
+<td><a href="https://gist.github.com/modos/bbd6efb8db778b3f6ff3c0c9316a055f">جواب</td>  
+</tr>
+
 </table>
