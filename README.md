@@ -1600,4 +1600,12 @@
 <td><a href="https://gist.github.com/modos/bbd6efb8db778b3f6ff3c0c9316a055f">جواب</td>  
 </tr>
 
+
+<tr>
+<td>پله‌نوردی</td>
+<td>603</td>
+<td><a href="https://quera.org/problemset/603/">سوال</td>
+<td><a href="https://gist.github.com/modos/4d7119398ec3aea3fb836bef7b869a68">جواب</td>  
+</tr>
+
 </table>
