@@ -1608,4 +1608,14 @@
 <td><a href="https://gist.github.com/modos/4d7119398ec3aea3fb836bef7b869a68">جواب</td>  
 </tr>
 
+
+<tr>
+<td>کار با اعداد اعشاری</td>
+<td>292</td>
+<td><a href="https://quera.org/problemset/292/">سوال</td>
+<td><a href="https://gist.github.com/modos/011a1958343cec48fc56b3fddb63c8bd">جواب</td>  
+</tr>
+
+
+
 </table>
