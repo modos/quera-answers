@@ -1617,5 +1617,13 @@
 </tr>
 
 
+<tr>
+<td>کاشی‌کاری</td>
+<td>605</td>
+<td><a href="https://quera.org/problemset/605/">سوال</td>
+<td><a href="https://gist.github.com/modos/dbc7e14d5e76df1fb70111a1df8fd73c">جواب</td>  
+</tr>
+
+
 
 </table>
