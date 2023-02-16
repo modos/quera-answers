@@ -1625,5 +1625,13 @@
 </tr>
 
 
+<tr>
+<td>سه‌تایی فیثاغورثی‌</td>
+<td>654</td>
+<td><a href="https://quera.org/problemset/654/">سوال</td>
+<td><a href="https://gist.github.com/modos/cf15c13286b21269160300a8611e349a">جواب</td>  
+</tr>
+
+
 
 </table>
