@@ -1632,6 +1632,13 @@
 <td><a href="https://gist.github.com/modos/cf15c13286b21269160300a8611e349a">جواب</td>  
 </tr>
 
+<tr>
+<td>نامه‌ی بد‌</td>
+<td>7609</td>
+<td><a href="https://quera.org/problemset/7609/">سوال</td>
+<td><a href="https://gist.github.com/modos/afd0b19d380c3568910c2b42832b08bc">جواب</td>  
+</tr>
+
 
 
 </table>
