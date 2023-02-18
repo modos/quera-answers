@@ -1639,6 +1639,13 @@
 <td><a href="https://gist.github.com/modos/afd0b19d380c3568910c2b42832b08bc">جواب</td>  
 </tr>
 
+<tr>
+<td>جفای یار</td>
+<td>7610</td>
+<td><a href="https://quera.org/problemset/7610/">سوال</td>
+<td><a href="https://gist.github.com/modos/e7d100fc9886d9fecb819731643d5cea">جواب</td>  
+</tr>
+
 
 
 </table>
