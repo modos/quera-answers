@@ -1646,6 +1646,13 @@
 <td><a href="https://gist.github.com/modos/e7d100fc9886d9fecb819731643d5cea">جواب</td>  
 </tr>
 
+<tr>
+<td>فرار یار</td>
+<td>7611</td>
+<td><a href="https://quera.org/problemset/7611/">سوال</td>
+<td><a href="https://gist.github.com/modos/66f27f816cc7911e8d327c43bf335649">جواب</td>  
+</tr>
+
 
 
 </table>
