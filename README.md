@@ -1654,5 +1654,13 @@
 </tr>
 
 
+<tr>
+<td>یار و چرخدنده‌ها</td>
+<td>7612</td>
+<td><a href="https://quera.org/problemset/7612/">سوال</td>
+<td><a href="https://gist.github.com/modos/23ace19134076a881059260bce36541c">جواب</td>  
+</tr>
+
+
 
 </table>
