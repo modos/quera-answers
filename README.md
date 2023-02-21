@@ -1662,5 +1662,13 @@
 </tr>
 
 
+<tr>
+<td>شیرین عسلی که پیگیر نبود</td>
+<td>7614</td>
+<td><a href="https://quera.org/problemset/7614/">سوال</td>
+<td><a href="https://gist.github.com/modos/d4aadd618599f87f2a442b652097566c">جواب</td>  
+</tr>
+
+
 
 </table>
