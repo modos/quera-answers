@@ -1670,5 +1670,13 @@
 </tr>
 
 
+<tr>
+<td>شیرین عسل و علوم تجربی</td>
+<td>7613</td>
+<td><a href="https://quera.org/problemset/7613/">سوال</td>
+<td><a href="https://gist.github.com/modos/808e59bc296fe7f3616ac205fe987eef">جواب</td>  
+</tr>
+
+
 
 </table>
