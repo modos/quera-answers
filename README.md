@@ -9,10 +9,10 @@
 <a href="https://github.com/HamidMolareza/QueraProblems">جواب سوالات کوئرا به زبان سی شارپ</a>
 
 <table>
-<th>اسم سوال<th/>
-<th>کد سوال<th/>
-<th>لینک سوال<th/>
-<th>لینک جواب<th/>
+<th>اسم سوال<ht/>
+<th>کد سوال<ht/>
+<th>لینک سوال<ht/>
+<th>لینک جواب<ht/>
 
 <tr>
 <td>سیگماگیر</td>
