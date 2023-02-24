@@ -9,10 +9,10 @@
 <a href="https://github.com/HamidMolareza/QueraProblems">جواب سوالات کوئرا به زبان سی شارپ</a>
 
 <table>
-<th>اسم سوال<ht/>
-<th>کد سوال<ht/>
-<th>لینک سوال<ht/>
-<th>لینک جواب<ht/>
+<th>اسم سوال<th/>
+<th>کد سوال<th/>
+<th>لینک سوال<th/>
+<th>لینک جواب<th/>
 
 <tr>
 <td>سیگماگیر</td>
@@ -1677,6 +1677,11 @@
 <td><a href="https://gist.github.com/modos/808e59bc296fe7f3616ac205fe987eef">جواب</td>  
 </tr>
 
-
+<tr>
+<td>شیرین عسل و علوم خفن</td>
+<td>7615</td>
+<td><a href="https://quera.org/problemset/7615/">سوال</td>
+<td><a href="https://gist.github.com/modos/c20444b9020a50672d2e6a7a4533a894">جواب</td>  
+</tr>
 
 </table>
