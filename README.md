@@ -1684,4 +1684,11 @@
 <td><a href="https://gist.github.com/modos/c20444b9020a50672d2e6a7a4533a894">جواب</td>  
 </tr>
 
+<tr>
+<td>Donuts and the Giant Pizza</td>
+<td>170855</td>
+<td><a href="https://quera.org/problemset/170855/">سوال</td>
+<td><a href="https://gist.github.com/modos/eade0243d5025b6310b45640a2067f62">جواب</td>  
+</tr>
+
 </table>
