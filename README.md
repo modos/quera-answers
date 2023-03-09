@@ -1690,5 +1690,12 @@
 <td><a href="https://quera.org/problemset/170855/">سوال</td>
 <td><a href="https://gist.github.com/modos/eade0243d5025b6310b45640a2067f62">جواب</td>  
 </tr>
+  
+<tr>
+<td>قناد ناشی</td>
+<td>2757</td>
+<td><a href="https://quera.org/problemset/2757/">سوال</td>
+<td><a href="https://gist.github.com/modos/1cb155fb5d3b9055a3c33d40e78865c0">جواب</td>  
+</tr>
 
 </table>
