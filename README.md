@@ -1698,4 +1698,11 @@
 <td><a href="https://gist.github.com/modos/1cb155fb5d3b9055a3c33d40e78865c0">جواب</td>  
 </tr>
 
+<tr>
+<td>مبنای شونزده</td>
+<td>6374</td>
+<td><a href="https://quera.org/problemset/6374/">سوال</td>
+<td><a href="https://gist.github.com/modos/7d1e254116612acdf198b28afce72c46">جواب</td>  
+</tr>
+
 </table>
