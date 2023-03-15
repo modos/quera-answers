@@ -1713,4 +1713,12 @@
 <td><a href="https://gist.github.com/modos/5c28d2cc283fb41b99e5abcabd3fc919">جواب</td>  
 </tr>
 
+
+<tr>
+<td>تابع نمایی</td>
+<td>297</td>
+<td><a href="https://quera.org/problemset/297/">سوال</td>
+<td><a href="https://gist.github.com/modos/c97eac3a1224d82eeaf64047437363ac">جواب</td>  
+</tr>
+
 </table>
