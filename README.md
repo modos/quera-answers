@@ -1729,4 +1729,12 @@
 <td><a href="https://gist.github.com/modos/8dda3ff4d38c69f9f04ebd157d0e32c0">جواب</td>  
 </tr>
 
+
+<tr>
+<td>انتخابات ریاست جمهوری</td>
+<td>604</td>
+<td><a href="https://quera.org/problemset/604/">سوال</td>
+<td><a href="https://gist.github.com/modos/29408738da5ce04cda759c171bc41cf4">جواب</td>  
+</tr>
+
 </table>
