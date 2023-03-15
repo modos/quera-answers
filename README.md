@@ -1721,4 +1721,12 @@
 <td><a href="https://gist.github.com/modos/c97eac3a1224d82eeaf64047437363ac">جواب</td>  
 </tr>
 
+
+<tr>
+<td>آلفا قنطورس</td>
+<td>66859</td>
+<td><a href="https://quera.org/problemset/66859/">سوال</td>
+<td><a href="https://gist.github.com/modos/8dda3ff4d38c69f9f04ebd157d0e32c0">جواب</td>  
+</tr>
+
 </table>
