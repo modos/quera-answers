@@ -1705,4 +1705,12 @@
 <td><a href="https://gist.github.com/modos/7d1e254116612acdf198b28afce72c46">جواب</td>  
 </tr>
 
+
+<tr>
+<td>محاسبه‌ی پیچیده</td>
+<td>279</td>
+<td><a href="https://quera.org/problemset/279/">سوال</td>
+<td><a href="https://gist.github.com/modos/5c28d2cc283fb41b99e5abcabd3fc919">جواب</td>  
+</tr>
+
 </table>
