@@ -1737,4 +1737,12 @@
 <td><a href="https://gist.github.com/modos/29408738da5ce04cda759c171bc41cf4">جواب</td>  
 </tr>
 
+
+<tr>
+<td>0x55</td>
+<td>170856</td>
+<td><a href="https://quera.org/problemset/170856/">سوال</td>
+<td><a href="https://gist.github.com/modos/7c70ed1400cc1ccfc8e4a3e281e3628e">جواب</td>  
+</tr>
+
 </table>
