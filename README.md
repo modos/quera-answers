@@ -1745,4 +1745,11 @@
 <td><a href="https://gist.github.com/modos/7c70ed1400cc1ccfc8e4a3e281e3628e">جواب</td>  
 </tr>
 
+<tr>
+<td>Colonelmo, CaptainH1 and Cluna</td>
+<td>170857</td>
+<td><a href="https://quera.org/problemset/170857/">سوال</td>
+<td><a href="https://gist.github.com/modos/5f78d63abe206df0f1ab371c7a8269d6">جواب</td>  
+</tr>
+
 </table>
