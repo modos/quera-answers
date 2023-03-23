@@ -1752,4 +1752,11 @@
 <td><a href="https://gist.github.com/modos/5f78d63abe206df0f1ab371c7a8269d6">جواب</td>  
 </tr>
 
+<tr>
+<td>AbulHassan’s Quest</td>
+<td>169373</td>
+<td><a href="https://quera.org/problemset/169373/">سوال</td>
+<td><a href="https://gist.github.com/modos/9f848df74bf7460fdc67dcc573fcc684">جواب</td>  
+</tr>
+
 </table>
