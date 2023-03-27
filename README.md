@@ -1759,4 +1759,12 @@
 <td><a href="https://gist.github.com/modos/9f848df74bf7460fdc67dcc573fcc684">جواب</td>  
 </tr>
 
+
+<tr>
+<td>!بالین</td>
+<td>175884</td>
+<td><a href="https://quera.org/problemset/175884/">سوال</td>
+<td><a href="https://gist.github.com/modos/08d483ce5171d285e562e17116e665ae">جواب</td>  
+</tr>
+
 </table>
