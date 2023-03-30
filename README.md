@@ -1767,4 +1767,11 @@
 <td><a href="https://gist.github.com/modos/08d483ce5171d285e562e17116e665ae">جواب</td>  
 </tr>
 
+<tr>
+<td>مربع خاص</td>
+<td>296</td>
+<td><a href="https://quera.org/problemset/296/">سوال</td>
+<td><a href="https://gist.github.com/modos/ceaf935668ce04f2faa19740fe93e9be">جواب</td>  
+</tr>
+
 </table>
