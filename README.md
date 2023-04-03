@@ -1782,4 +1782,12 @@
 <td><a href="https://gist.github.com/modos/7bc5ebc3286da5f060cf116481bd8355">جواب</td>  
 </tr>
 
+
+<tr>
+<td>انرژی خور</td>
+<td>3031</td>
+<td><a href="https://quera.org/problemset/3031/">سوال</td>
+<td><a href="https://gist.github.com/modos/deb75c96f03f6b5edf5ad84b02f845ad">جواب</td>  
+</tr>
+
 </table>
