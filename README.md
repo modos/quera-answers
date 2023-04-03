@@ -1774,4 +1774,12 @@
 <td><a href="https://gist.github.com/modos/ceaf935668ce04f2faa19740fe93e9be">جواب</td>  
 </tr>
 
+
+<tr>
+<td>کاف کیک</td>
+<td>51866</td>
+<td><a href="https://quera.org/problemset/51866/">سوال</td>
+<td><a href="https://gist.github.com/modos/7bc5ebc3286da5f060cf116481bd8355">جواب</td>  
+</tr>
+
 </table>
