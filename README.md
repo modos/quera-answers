@@ -1790,4 +1790,11 @@
 <td><a href="https://gist.github.com/modos/deb75c96f03f6b5edf5ad84b02f845ad">جواب</td>  
 </tr>
 
+<tr>
+<td>بازگشت از بوستان</td>
+<td>3029</td>
+<td><a href="https://quera.org/problemset/3029/">سوال</td>
+<td><a href="https://gist.github.com/modos/22e177be8be0d601868243f96e49288b">جواب</td>  
+</tr>
+
 </table>
