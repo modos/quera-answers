@@ -1804,4 +1804,11 @@
 <td><a href="https://gist.github.com/modos/33fb15d34e7184f80ab3d18fccfd0e2c">جواب</td>  
 </tr>
 
+<tr>
+<td>باقر حال نداره ولی پول داره</td>
+<td>10234</td>
+<td><a href="https://quera.org/problemset/10234/">سوال</td>
+<td><a href="https://gist.github.com/modos/61218c7ca390f8eeb4194d19c16c44bc">جواب</td>  
+</tr>
+
 </table>
