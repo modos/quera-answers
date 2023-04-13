@@ -1797,4 +1797,11 @@
 <td><a href="https://gist.github.com/modos/22e177be8be0d601868243f96e49288b">جواب</td>  
 </tr>
 
+<tr>
+<td>سختگیر TA انتقام از</td>
+<td>278</td>
+<td><a href="https://quera.org/problemset/278/">سوال</td>
+<td><a href="https://gist.github.com/modos/33fb15d34e7184f80ab3d18fccfd0e2c">جواب</td>  
+</tr>
+
 </table>
