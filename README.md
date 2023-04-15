@@ -1811,4 +1811,11 @@
 <td><a href="https://gist.github.com/modos/61218c7ca390f8eeb4194d19c16c44bc">جواب</td>  
 </tr>
 
+<tr>
+<td>بازرگانی سوکرات و پسران</td>
+<td>9744</td>
+<td><a href="https://quera.org/problemset/9744/">سوال</td>
+<td><a href="https://gist.github.com/modos/a5cfbcebd93d4bb71fefc41ea1408f97">جواب</td>  
+</tr>
+
 </table>
