@@ -1818,4 +1818,11 @@
 <td><a href="https://gist.github.com/modos/a5cfbcebd93d4bb71fefc41ea1408f97">جواب</td>  
 </tr>
 
+<tr>
+<td>بتایپ</td>
+<td>28948</td>
+<td><a href="https://quera.org/problemset/28948/">سوال</td>
+<td><a href="https://gist.github.com/modos/9cac51b3d66a32b69203fd40c87f3bad">جواب</td>  
+</tr>
+
 </table>
