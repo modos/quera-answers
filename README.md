@@ -1828,4 +1828,11 @@
 <td><a href="https://gist.github.com/modos/9cac51b3d66a32b69203fd40c87f3bad">جواب</td>  
 </tr>
 
+<tr>
+<td>جاسوسی</td>
+<td>2535</td>
+<td><a href="https://quera.org/problemset/2535/">سوال</td>
+<td><a href="https://gist.github.com/modos/124069f39c79794867e388947b882053">جواب</td>  
+</tr>
+
 </table>
