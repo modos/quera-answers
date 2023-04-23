@@ -1842,4 +1842,11 @@
 <td><a href="https://gist.github.com/modos/82d55ce8aa01ee40995c165564e38efa">جواب</td>  
 </tr>
 
+<tr>
+<td>بازار موبایل</td>
+<td>3415</td>
+<td><a href="https://quera.org/problemset/3415/">سوال</td>
+<td><a href="https://gist.github.com/modos/bd301719a6422bdaf4e6a47781f57cee">جواب</td>  
+</tr>
+
 </table>
