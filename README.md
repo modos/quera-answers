@@ -1835,4 +1835,11 @@
 <td><a href="https://gist.github.com/modos/124069f39c79794867e388947b882053">جواب</td>  
 </tr>
 
+<tr>
+<td>قطار کامیابی</td>
+<td>20257</td>
+<td><a href="https://quera.org/problemset/20257/">سوال</td>
+<td><a href="https://gist.github.com/modos/82d55ce8aa01ee40995c165564e38efa">جواب</td>  
+</tr>
+
 </table>
