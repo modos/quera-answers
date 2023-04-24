@@ -1849,4 +1849,11 @@
 <td><a href="https://gist.github.com/modos/bd301719a6422bdaf4e6a47781f57cee">جواب</td>  
 </tr>
 
+<tr>
+<td>سی‌شارپ نوردی</td>
+<td>170059</td>
+<td><a href="https://quera.org/problemset/170059/">سوال</td>
+<td><a href="https://gist.github.com/modos/7a05b75a076133c7ad4d76d9941cad52">جواب</td>  
+</tr>
+
 </table>
