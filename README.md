@@ -1856,4 +1856,11 @@
 <td><a href="https://gist.github.com/modos/7a05b75a076133c7ad4d76d9941cad52">جواب</td>  
 </tr>
 
+<tr>
+<td>رخ زیبا</td>
+<td>178905</td>
+<td><a href="https://quera.org/problemset/178905/">سوال</td>
+<td><a href="https://gist.github.com/modos/0d0bab5d653ee488b316583aa36dcaf2">جواب</td>  
+</tr>
+
 </table>
