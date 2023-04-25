@@ -1863,4 +1863,11 @@
 <td><a href="https://gist.github.com/modos/0d0bab5d653ee488b316583aa36dcaf2">جواب</td>  
 </tr>
 
+<tr>
+<td>جعبه شکلات</td>
+<td>178906</td>
+<td><a href="https://quera.org/problemset/178906/">سوال</td>
+<td><a href="https://gist.github.com/modos/d7d7a30e3f53d962fd67f7a5ffe12650">جواب</td>  
+</tr>
+
 </table>
