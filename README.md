@@ -1909,4 +1909,14 @@
   <li><a href="https://gist.github.com/modos/d92bc39087a12b0c0d4efbd7033dc2ec">سودوکو</a></li>
   <li><a href="https://gist.github.com/modos/fc46c31fb0a8da05d97c5c8bb7f390f1">وزیر n</a></li>
   <li><a href="https://gist.github.com/modos/f531793f65e2f95c64617cd3384f5637">یک اسب</a></li>
-</ul>    
+</ul>
+  
+فصل الگوریتم های حریصانه:
+<ul>
+  <li><a href="https://gist.github.com/modos/0e11374d43a733eda21c19592c62496c">زندگی کارمندی</a></li>
+  <li><a href="https://gist.github.com/modos/52f89f3c1b4ae3fb905d9102a4994a0e">کاف کیک</a></li>
+  <li><a href="https://gist.github.com/modos/151986c5cf30c1bffbd0b7fb717c1578">انرژی خور</a></li>
+  <li><a href="https://gist.github.com/modos/577e47ab794d1d383aeca2b21e532d1c">تخته</a></li>
+  <li><a href="https://gist.github.com/modos/6c7d7a699d4ad322858cab18d6ad6ee0">جاسوسی</a></li>
+  <li><a href="https://gist.github.com/modos/f6240263eabd689d53b4bb17cfc1d9f4">بیشترین تعداد بازه</a></li>
+</ul>      
