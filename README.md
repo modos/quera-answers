@@ -1967,3 +1967,10 @@
   <li><a href="https://gist.github.com/modos/1f8a8b2bf4738f86b2d8c30235d5332d">قطـــر</a></li>
 </ul>    
   
+فصل الگوریتم های استقرایی:
+<ul>
+  <li><a href="https://gist.github.com/modos/9782c0a53f2a28a993a88939dd91803d">مرتب سازی 1</a></li>
+  <li><a href="https://gist.github.com/modos/9782c0a53f2a28a993a88939dd91803d">بزرگ‌ترین زیربازه ۳</a></li>
+  <li><a href="https://gist.github.com/modos/55a404f6ce814a1437c01299f858a900">الگوریتم هورنر</a></li>
+  <li><a href="https://gist.github.com/modos/c734456039a1b4cc04f40887fd2d14ff">مجموع ارقام</a></li>
+</ul>    
