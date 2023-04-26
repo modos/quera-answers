@@ -1939,4 +1939,18 @@
   <li><a href="https://gist.github.com/modos/578e15e3b3d9b2350a1208af09796922">!بشمر</a></li>
   <li><a href="https://gist.github.com/modos/b23b088986eb1974248e502315b1b9ff">نابه‌جایی</a></li>
   <li><a href="https://gist.github.com/modos/d61c2f2a0f3b5d8e4c036592d7f02806">دسته به دسته</a></li>
+</ul>
+
+
+فصل ساختمان داده ها:
+<ul>
+  <li><a href="https://gist.github.com/modos/3411649d3e4d396c42e6db2d23b6d367">پرانتزگذاری معتبر</a></li>
+  <li><a href="https://gist.github.com/modos/f8a549bd44a8e34c9e5096fc05b3dd18">هیستوری</a></li>
+  <li><a href="https://gist.github.com/modos/df68ca1e8f404958de14c2527c2e7c44">الگوی من کیه؟</a></li>
+  <li><a href="https://gist.github.com/modos/3842f319ce05fb6d796bc45572b39c8f">ویرایشگر متن</a></li>
+  <li><a href="https://gist.github.com/modos/36f6466242d714ad96d0296f61382070">کافه‌ سالاد</a></li>
+  <li><a href="https://gist.github.com/modos/43d7cb725920a535f33c75ecee171ecf">میانه‌روی</a></li>
+  <li><a href="https://gist.github.com/modos/005302f2c6bc1c8b90bccef10cca61ad">برنامه‌ریزی فرودگاه</a></li>
+  <li><a href="https://gist.github.com/modos/5943cf3f8f7293ff31a65300852989a6">برش کیک</a></li>
+  <li><a href="https://gist.github.com/modos/90278a6402b59070b144d158afe35486">پول یا وجدان؟</a></li>
 </ul>   
