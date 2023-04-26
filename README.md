@@ -1885,4 +1885,19 @@
   <li><a href="https://gist.github.com/modos/17c7fe9e6f0f8b80a9783042808ea7bd">کمینه در بازه</a></li>
   <li><a href="https://gist.github.com/modos/e31139df705b91a81bb6f54a21990b90">مجموع جزئی در آرایه متغیر</a></li>
   <li><a href="https://gist.github.com/modos/63ebb0797aa984e711ad945b60d7b521">بیشینه در آرایه متغیر</a></li>
-</ul>  
+</ul>
+  
+فصل برنامه نویسی پویا:
+<ul>
+  <li><a href="https://gist.github.com/modos/43eb1976a9d8cbcb57391707a048ed73">دومینوار</a></li>
+  <li><a href="https://gist.github.com/modos/8553e15a319c2ed9ac6934eac47774a8">بزرگترین زیربازه</a></li>
+  <li><a href="https://gist.github.com/modos/4816cbd23f7af7e8c83e17d685aeb819">آجرچینی</a></li>
+  <li><a href="https://gist.github.com/modos/5ae48adb4ab452aa9aa65c979dbd0082">بزرگترین زیرجدول</a></li>
+  <li><a href="https://gist.github.com/modos/5253013380da1ee911d97cd398921cb7">انتخاب</a></li>
+  <li><a href="https://gist.github.com/modos/2d632558a05d6651e2598244802e7b99">بیشینه مسیر جدول</a></li>
+  <li><a href="https://gist.github.com/modos/1e94e4c5935bc133eb8fac0cdd3e3034">چالش مسیریابی</a></li>
+  <li><a href="https://gist.github.com/modos/03367cb1c5285248f67e569c480d51dc">یا همه یا هیچ یا یکی</a></li>
+  <li><a href="https://gist.github.com/modos/0482ee06b367611cd73f6bd136e8a9e3">بزرگترین زیردنباله مشترک</a></li>
+  <li><a href="https://gist.github.com/modos/e0bcf8891427d97886fb17dcab80d14f">بریم توچال</a></li>
+  <li><a href="https://gist.github.com/modos/ee58964ad059d9a03a1ad9c9d95a2783">ضرب ماتریس</a></li>
+</ul>    
