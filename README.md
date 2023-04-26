@@ -1900,4 +1900,13 @@
   <li><a href="https://gist.github.com/modos/0482ee06b367611cd73f6bd136e8a9e3">بزرگترین زیردنباله مشترک</a></li>
   <li><a href="https://gist.github.com/modos/e0bcf8891427d97886fb17dcab80d14f">بریم توچال</a></li>
   <li><a href="https://gist.github.com/modos/ee58964ad059d9a03a1ad9c9d95a2783">ضرب ماتریس</a></li>
+</ul> 
+ 
+فصل الگوریتم های پس گرد:
+<ul>
+  <li><a href="https://gist.github.com/modos/20474d23a65a453c23aab3b0e1c93705">تعداد جایگشت</a></li>
+  <li><a href="https://gist.github.com/modos/3350e21e892b5e8b0da3d3316cccf305">دنباله‌ پس‌گردنی</a></li>
+  <li><a href="https://gist.github.com/modos/d92bc39087a12b0c0d4efbd7033dc2ec">سودوکو</a></li>
+  <li><a href="https://gist.github.com/modos/fc46c31fb0a8da05d97c5c8bb7f390f1">وزیر n</a></li>
+  <li><a href="https://gist.github.com/modos/f531793f65e2f95c64617cd3384f5637">یک اسب</a></li>
 </ul>    
