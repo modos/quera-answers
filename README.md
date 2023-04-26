@@ -1919,4 +1919,14 @@
   <li><a href="https://gist.github.com/modos/577e47ab794d1d383aeca2b21e532d1c">تخته</a></li>
   <li><a href="https://gist.github.com/modos/6c7d7a699d4ad322858cab18d6ad6ee0">جاسوسی</a></li>
   <li><a href="https://gist.github.com/modos/f6240263eabd689d53b4bb17cfc1d9f4">بیشترین تعداد بازه</a></li>
+</ul>
+  
+فصل الگوریتم های بازگشتی:
+<ul>
+  <li><a href="https://gist.github.com/modos/022009f31b0d1c3fbc0484097490150f">دنباله بازگشتی</a></li>
+  <li><a href="https://gist.github.com/modos/56087e7cc16945b1f31a359fa48e7715">ب.م.م</a></li>
+  <li><a href="https://gist.github.com/modos/977b2cfa5edbfb7141a698dad893dccb">برج هانوی</a></li>
+  <li><a href="https://gist.github.com/modos/188260f352178a05ef74b00009331df8">کد گری</a></li>
+  <li><a href="https://gist.github.com/modos/9767a0304ad6882d4ec2b78876c2c6f3">تایی مرتب n</a></li>
+  <li><a href="https://gist.github.com/modos/dbb9c45ae7dcdab01135abdb5518b884">بخش بندی</a></li>
 </ul>      
