@@ -1983,4 +1983,15 @@
   <li><a href="https://gist.github.com/modos/0bcd56420be99538292310a26d96a00c">شمارش مثلث‌ها ۱</a></li>
   <li><a href="https://gist.github.com/modos/a0061e96877e58eb03d3f3b6e1d4d68f">شمارش مثلث‌ها ۲</a></li>
   <li><a href="https://gist.github.com/modos/91194631a1c755b0321e930082a74420">شمارش مثلث‌ها ۳</a></li>
-</ul>   
+</ul>
+  
+فصل ورود به دنیای الگوریتم ها:
+<ul>
+  <li><a href="https://gist.github.com/modos/545f77c6cf3cf21c5746750a7c195daf">جست‌وجو در دنباله ۱</a></li>
+  <li><a href="https://gist.github.com/modos/370c5d8915b1979f1630e10fd0d6d93f">جست‌وجو در دنباله ۲</a></li>
+  <li><a href="https://gist.github.com/modos/07ef59679bf48169243fce1a0745da68">تبدیل به حسابی ۱</a></li>
+  <li><a href="https://gist.github.com/modos/1c3158bb83ab566b97ef6f1700cbe604">میانه صحیح</a></li>
+  <li><a href="https://gist.github.com/modos/71ed1049ed7ab500ee564b63eb4adf04">تبدیل به حسابی ۲</a></li>
+</ul>     
+
+  <i>جواب بعضی از تمرین های دوره ای در جدول بالا هاست، در هر صورت این جواب ها برای رسیدن به نمره ی perfect کفایت میکنه.</i>
