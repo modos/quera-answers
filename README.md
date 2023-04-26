@@ -1953,5 +1953,17 @@
   <li><a href="https://gist.github.com/modos/005302f2c6bc1c8b90bccef10cca61ad">برنامه‌ریزی فرودگاه</a></li>
   <li><a href="https://gist.github.com/modos/5943cf3f8f7293ff31a65300852989a6">برش کیک</a></li>
   <li><a href="https://gist.github.com/modos/90278a6402b59070b144d158afe35486">پول یا وجدان؟</a></li>
-</ul>   
+</ul>
+  
+  
+فصل الگوریتم های گراف:
+<ul>
+  <li><a href="https://gist.github.com/modos/f166e39c7b51ed320c70ebb9b31bbf1a">دی‌اِف‌اِسِ پیش‌گو</a></li>
+  <li><a href="https://gist.github.com/modos/1d809b8ea7ffe4d2a50d7a9be09c7ff1">بی‌اِف‌اِسِ مسیر‌یاب</a></li>
+  <li><a href="https://gist.github.com/modos/9ea29f37122bd00d87641291c69bd4bf">مسافرت</a></li>
+  <li><a href="https://gist.github.com/modos/44fe3874a1143a647cb89317dfb8613b">پادشاه</a></li>
+  <li><a href="https://gist.github.com/modos/981c89cf0002129bb98586ea5b60628c">دوست‌یابی</a></li>
+  <li><a href="https://gist.github.com/modos/7e68793c65c4221d34c1577e87a33feb">جدول</a></li>
+  <li><a href="https://gist.github.com/modos/1f8a8b2bf4738f86b2d8c30235d5332d">قطـــر</a></li>
+</ul>    
   
