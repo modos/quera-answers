@@ -1871,3 +1871,18 @@
 </tr>
 
 </table>
+
+
+
+### پاسخ های دوره تفکر الگوریتمی پیشرفته و ساختمان‌ داده‌ها 
+فصل پیش پردازش و بهینه سازی:
+<ul>
+  <li><a href="https://gist.github.com/modos/b294492e8a1a1735600ee972a58e04e3">مجموع جزئی</a></li>
+  <li><a href="https://gist.github.com/modos/0ff1a4c7a670117c27408e0fdb9cca5a">خواستار</a></li>
+  <li><a href="https://gist.github.com/modos/02b34eecda2e7326c2822ce595237a2d">مجموع جزئی در ماتریس</a></li>
+  <li><a href="https://gist.github.com/modos/5e9719a8c886bce8a46e545b6fe8b066">مربع</a></li>
+  <li><a href="https://gist.github.com/modos/b2e6a10d90c865d41fbece6fe139a2d3">کادوی مشتی</a></li>
+  <li><a href="https://gist.github.com/modos/17c7fe9e6f0f8b80a9783042808ea7bd">کمینه در بازه</a></li>
+  <li><a href="https://gist.github.com/modos/e31139df705b91a81bb6f54a21990b90">مجموع جزئی در آرایه متغیر</a></li>
+  <li><a href="https://gist.github.com/modos/63ebb0797aa984e711ad945b60d7b521">بیشینه در آرایه متغیر</a></li>
+</ul>  
