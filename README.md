@@ -1973,4 +1973,14 @@
   <li><a href="https://gist.github.com/modos/9782c0a53f2a28a993a88939dd91803d">بزرگ‌ترین زیربازه ۳</a></li>
   <li><a href="https://gist.github.com/modos/55a404f6ce814a1437c01299f858a900">الگوریتم هورنر</a></li>
   <li><a href="https://gist.github.com/modos/c734456039a1b4cc04f40887fd2d14ff">مجموع ارقام</a></li>
-</ul>    
+</ul>
+  
+
+فصل تحلیل زمانی الگوریتم ها:
+<ul>
+  <li><a href="https://gist.github.com/modos/49b41a4cff0314a718f5f578155eb488">بزرگ‌ترین زیربازه ۱</a></li>
+  <li><a href="https://gist.github.com/modos/2632a15bea53a847f760f3c3bd985a0a">بزرگ‌ترین زیربازه ۲</a></li>
+  <li><a href="https://gist.github.com/modos/0bcd56420be99538292310a26d96a00c">شمارش مثلث‌ها ۱</a></li>
+  <li><a href="https://gist.github.com/modos/a0061e96877e58eb03d3f3b6e1d4d68f">شمارش مثلث‌ها ۲</a></li>
+  <li><a href="https://gist.github.com/modos/91194631a1c755b0321e930082a74420">شمارش مثلث‌ها ۳</a></li>
+</ul>   
