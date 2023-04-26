@@ -1929,4 +1929,14 @@
   <li><a href="https://gist.github.com/modos/188260f352178a05ef74b00009331df8">کد گری</a></li>
   <li><a href="https://gist.github.com/modos/9767a0304ad6882d4ec2b78876c2c6f3">تایی مرتب n</a></li>
   <li><a href="https://gist.github.com/modos/dbb9c45ae7dcdab01135abdb5518b884">بخش بندی</a></li>
-</ul>      
+</ul>
+  
+  
+فصل روش تقسیم و حل:
+<ul>
+  <li><a href="https://gist.github.com/modos/20f4b6c4ce665a6646391edda8a98096">ادغامات</a></li>
+  <li><a href="https://gist.github.com/modos/ae7a1ab8dfecbf7e02814b312365d75a">تابع توان دار</a></li>
+  <li><a href="https://gist.github.com/modos/578e15e3b3d9b2350a1208af09796922">!بشمر</a></li>
+  <li><a href="https://gist.github.com/modos/b23b088986eb1974248e502315b1b9ff">نابه‌جایی</a></li>
+  <li><a href="https://gist.github.com/modos/d61c2f2a0f3b5d8e4c036592d7f02806">دسته به دسته</a></li>
+</ul>   
