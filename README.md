@@ -1877,6 +1877,13 @@
 <td><a href="https://gist.github.com/modos/d9cef19ed5f30b5febda8c06fd8fd4a1">جواب</td>  
 </tr>
 
+<tr>
+<td>سلام کدکاپ ۶!</td>
+<td>121728</td>
+<td><a href="https://quera.org/problemset/121728/">سوال</td>
+<td><a href="https://gist.github.com/modos/a73d9041e0cb4b0d5a47d7549cab2ce3">جواب</td>  
+</tr>
+
 </table>
 
 
