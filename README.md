@@ -1870,6 +1870,13 @@
 <td><a href="https://gist.github.com/modos/d7d7a30e3f53d962fd67f7a5ffe12650">جواب</td>  
 </tr>
 
+<tr>
+<td>شارژر تباه</td>
+<td>91711</td>
+<td><a href="https://quera.org/problemset/91711/">سوال</td>
+<td><a href="https://gist.github.com/modos/d9cef19ed5f30b5febda8c06fd8fd4a1">جواب</td>  
+</tr>
+
 </table>
 
 
