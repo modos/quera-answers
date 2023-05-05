@@ -1884,6 +1884,13 @@
 <td><a href="https://gist.github.com/modos/a73d9041e0cb4b0d5a47d7549cab2ce3">جواب</td>  
 </tr>
 
+<tr>
+<td>عدالت یا برابری</td>
+<td>170060</td>
+<td><a href="https://quera.org/problemset/170060/">سوال</td>
+<td><a href="https://gist.github.com/modos/f5adf0c7b2c00710b675b38470fb824b">جواب</td>  
+</tr>
+
 </table>
 
 
