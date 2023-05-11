@@ -1890,6 +1890,19 @@
 <td><a href="https://quera.org/problemset/170060/">سوال</td>
 <td><a href="https://gist.github.com/modos/f5adf0c7b2c00710b675b38470fb824b">جواب</td>  
 </tr>
+  
+<tr>
+<td>رده‌بندی استاید</td>
+<td>181333</td>
+<td><a href="https://quera.org/problemset/181333/">سوال</td>
+<td><a href="https://gist.github.com/modos/f02cf1d8154499898ce2b3caa69f0444">جواب</td>  
+</tr> 
+  
+<tr>
+<td>181332</td>
+<td><a href="https://quera.org/problemset/181332/">سوال</td>
+<td><a href="https://gist.github.com/modos/94dc97e1d2f88c74945850e40e54e534">جواب</td>  
+</tr>  
 
 </table>
 
