@@ -1899,6 +1899,7 @@
 </tr> 
   
 <tr>
+<td>۳۰ شارپ</td>
 <td>181332</td>
 <td><a href="https://quera.org/problemset/181332/">سوال</td>
 <td><a href="https://gist.github.com/modos/94dc97e1d2f88c74945850e40e54e534">جواب</td>  
