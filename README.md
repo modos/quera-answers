@@ -1903,6 +1903,13 @@
 <td>181332</td>
 <td><a href="https://quera.org/problemset/181332/">سوال</td>
 <td><a href="https://gist.github.com/modos/94dc97e1d2f88c74945850e40e54e534">جواب</td>  
+</tr>
+  
+<tr>
+<td>مدیریت زمان نیما</td>
+<td>181680</td>
+<td><a href="https://quera.org/problemset/181680/">سوال</td>
+<td><a href="https://gist.github.com/modos/3badffcbae47ab878e1352b24341005c">جواب</td>  
 </tr>  
 
 </table>
