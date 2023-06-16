@@ -1910,7 +1910,14 @@
 <td>181680</td>
 <td><a href="https://quera.org/problemset/181680/">سوال</td>
 <td><a href="https://gist.github.com/modos/3badffcbae47ab878e1352b24341005c">جواب</td>  
-</tr>  
+</tr> 
+  
+<tr>
+<td>مش‌رجب و لگاریتم</td>
+<td>183347</td>
+<td><a href="https://quera.org/problemset/183347/">سوال</td>
+<td><a href="https://gist.github.com/modos/69bf76ba2590eadbea6afd4141830e46">جواب</td>  
+</tr>   
 
 </table>
 
