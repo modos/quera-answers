@@ -1919,6 +1919,13 @@
 <td><a href="https://gist.github.com/modos/69bf76ba2590eadbea6afd4141830e46">جواب</td>  
 </tr>   
 
+<tr>
+<td>Input Mask</td>
+<td>66546</td>
+<td><a href="https://quera.org/problemset/66546/">سوال</td>
+<td><a href="https://gist.github.com/modos/b335b0f81725856e6e069d49796e02e3">جواب</td>  
+</tr>   
+
 </table>
 
 
