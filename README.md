@@ -1924,7 +1924,14 @@
 <td>66546</td>
 <td><a href="https://quera.org/problemset/66546/">سوال</td>
 <td><a href="https://gist.github.com/modos/b335b0f81725856e6e069d49796e02e3">جواب</td>  
-</tr>   
+</tr>  
+
+<tr>
+<td>تیم کشی</td>
+<td>80651</td>
+<td><a href="https://quera.org/problemset/80651/">سوال</td>
+<td><a href="https://gist.github.com/modos/1f1e0cbf86d64c97f052b8d80c374553">جواب</td>  
+</tr>    
 
 </table>
 
