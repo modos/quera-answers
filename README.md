@@ -1931,7 +1931,14 @@
 <td>80651</td>
 <td><a href="https://quera.org/problemset/80651/">سوال</td>
 <td><a href="https://gist.github.com/modos/1f1e0cbf86d64c97f052b8d80c374553">جواب</td>  
-</tr>    
+</tr>
+
+<tr>
+<td>سوراخ موش</td>
+<td>91712</td>
+<td><a href="https://quera.org/problemset/91712/">سوال</td>
+<td><a href="https://gist.github.com/modos/4485e6ed49207825759b129f71de7dc5">جواب</td>  
+</tr>  
 
 </table>
 
