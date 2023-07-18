@@ -1945,7 +1945,14 @@
 <td>10327</td>
 <td><a href="https://quera.org/problemset/10327/">سوال</td>
 <td><a href="https://gist.github.com/modos/2db9c075e90cbe6479cbd3c988ac4724">جواب</td>  
-</tr>  
+</tr>
+
+<tr>
+<td>کامه کلمه</td>
+<td>108665</td>
+<td><a href="https://quera.org/problemset/108665/">سوال</td>
+<td><a href="https://gist.github.com/modos/7d285169c6b026ac1caa8773057a6788">جواب</td>  
+</tr>    
 
 </table>
 
