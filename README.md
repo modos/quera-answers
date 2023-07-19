@@ -1952,7 +1952,14 @@
 <td>108665</td>
 <td><a href="https://quera.org/problemset/108665/">سوال</td>
 <td><a href="https://gist.github.com/modos/7d285169c6b026ac1caa8773057a6788">جواب</td>  
-</tr>    
+</tr>
+
+<tr>
+<td>باب و کلید تلویزیون</td>
+<td>14580</td>
+<td><a href="https://quera.org/problemset/14580/">سوال</td>
+<td><a href="https://gist.github.com/modos/6ced17b825f27fd91a049576bfd3bb74">جواب</td>  
+</tr>      
 
 </table>
 
