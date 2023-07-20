@@ -1959,7 +1959,15 @@
 <td>14580</td>
 <td><a href="https://quera.org/problemset/14580/">سوال</td>
 <td><a href="https://gist.github.com/modos/6ced17b825f27fd91a049576bfd3bb74">جواب</td>  
-</tr>      
+</tr> 
+
+
+<tr>
+<td>رشته چکر</td>
+<td>106795</td>
+<td><a href="https://quera.org/problemset/106795/">سوال</td>
+<td><a href="https://gist.github.com/modos/7929db43da6136a16f8005b66e06693d">جواب</td>  
+</tr>   
 
 </table>
 
