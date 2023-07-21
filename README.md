@@ -7,10 +7,6 @@
 <p>گروه تلگرام:</p>
 <a href="https://t.me/+vmBsaXQlVOw4ZjBk">https://t.me/+vmBsaXQlVOw4ZjBk</a>
 
-<h3>مخزن های دیگر</h3>
-
-<a href="https://github.com/HamidMolareza/QueraProblems">جواب سوالات کوئرا به زبان سی شارپ</a>
-
 <table>
 <th>اسم سوال<ht/>
 <th>کد سوال<ht/>
@@ -1967,6 +1963,14 @@
 <td>106795</td>
 <td><a href="https://quera.org/problemset/106795/">سوال</td>
 <td><a href="https://gist.github.com/modos/7929db43da6136a16f8005b66e06693d">جواب</td>  
+</tr> 
+
+
+<tr>
+<td>چیدمان</td>
+<td>2534</td>
+<td><a href="https://quera.org/problemset/2534/">سوال</td>
+<td><a href="https://gist.github.com/modos/73072c74aa66c619e484f176732525ea">جواب</td>  
 </tr>   
 
 </table>
