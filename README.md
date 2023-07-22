@@ -1971,6 +1971,13 @@
 <td>2534</td>
 <td><a href="https://quera.org/problemset/2534/">سوال</td>
 <td><a href="https://gist.github.com/modos/73072c74aa66c619e484f176732525ea">جواب</td>  
+</tr>
+
+<tr>
+<td>XO بازی</td>
+<td>66544</td>
+<td><a href="https://quera.org/problemset/66544/">سوال</td>
+<td><a href="https://gist.github.com/modos/1c577c56a4d7386ca6a8b566b64ad2c5">جواب</td>  
 </tr>   
 
 </table>
