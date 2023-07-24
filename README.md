@@ -1993,7 +1993,15 @@
 <td>158165</td>
 <td><a href="https://quera.org/problemset/158165/">سوال</td>
 <td><a href="https://gist.github.com/modos/b1328669f242aeb2a0315e6e8d86394a">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>نقشه گز</td>
+<td>158166</td>
+<td><a href="https://quera.org/problemset/158166/">سوال</td>
+<td><a href="https://gist.github.com/modos/e2f8fc0d0eb2f21e3054384bd56742dd">جواب</td>  
+</tr> 
+  
 
 </table>
 
