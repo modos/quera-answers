@@ -1988,6 +1988,13 @@
 <td><a href="https://gist.github.com/modos/c7f835cf3f56608641733518de0a436c">جواب</td>  
 </tr>  
 
+<tr>
+<td>خوانا برای انسان</td>
+<td>158165</td>
+<td><a href="https://quera.org/problemset/158165/">سوال</td>
+<td><a href="https://gist.github.com/modos/b1328669f242aeb2a0315e6e8d86394a">جواب</td>  
+</tr>  
+
 </table>
 
 
