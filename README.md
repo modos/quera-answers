@@ -2001,6 +2001,13 @@
 <td><a href="https://quera.org/problemset/158166/">سوال</td>
 <td><a href="https://gist.github.com/modos/e2f8fc0d0eb2f21e3054384bd56742dd">جواب</td>  
 </tr> 
+
+<tr>
+<td>رشته های باینری</td>
+<td>158168</td>
+<td><a href="https://quera.org/problemset/158168/">سوال</td>
+<td><a href="https://gist.github.com/modos/38de1eb8a71613b241ab4773c60e6980">جواب</td>  
+</tr> 
   
 
 </table>
