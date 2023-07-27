@@ -2008,6 +2008,13 @@
 <td><a href="https://quera.org/problemset/158168/">سوال</td>
 <td><a href="https://gist.github.com/modos/38de1eb8a71613b241ab4773c60e6980">جواب</td>  
 </tr> 
+
+<tr>
+<td>هیتلر مخفی</td>
+<td>158162</td>
+<td><a href="https://quera.org/problemset/158162/">سوال</td>
+<td><a href="https://gist.github.com/modos/591506ad019ceb19ea99a9b96abd581f">جواب</td>  
+</tr> 
   
 
 </table>
