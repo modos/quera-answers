@@ -2022,6 +2022,13 @@
 <td><a href="https://quera.org/problemset/158164/">سوال</td>
 <td><a href="https://gist.github.com/modos/8d2d64cedc7cc3e61558c06cb72d9f92">جواب</td>  
 </tr> 
+
+<tr>
+<td>کارمند زیادی</td>
+<td>10636</td>
+<td><a href="https://quera.org/problemset/10636/">سوال</td>
+<td><a href="https://gist.github.com/modos/3b3a6747d4c9b0d1d018dc9aaddd31ee">جواب</td>  
+</tr> 
   
 
 </table>
