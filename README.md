@@ -2015,6 +2015,13 @@
 <td><a href="https://quera.org/problemset/158162/">سوال</td>
 <td><a href="https://gist.github.com/modos/591506ad019ceb19ea99a9b96abd581f">جواب</td>  
 </tr> 
+
+<tr>
+<td>حذف نابجایی</td>
+<td>158164</td>
+<td><a href="https://quera.org/problemset/158164/">سوال</td>
+<td><a href="https://gist.github.com/modos/8d2d64cedc7cc3e61558c06cb72d9f92">جواب</td>  
+</tr> 
   
 
 </table>
