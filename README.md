@@ -2029,6 +2029,13 @@
 <td><a href="https://quera.org/problemset/10636/">سوال</td>
 <td><a href="https://gist.github.com/modos/3b3a6747d4c9b0d1d018dc9aaddd31ee">جواب</td>  
 </tr> 
+
+<tr>
+<td>باقر مخالف است</td>
+<td>10233</td>
+<td><a href="https://quera.org/problemset/10233/">سوال</td>
+<td><a href="https://gist.github.com/modos/19bca059749111590716f0febb89624c">جواب</td>  
+</tr> 
   
 
 </table>
