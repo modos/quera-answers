@@ -2036,6 +2036,13 @@
 <td><a href="https://quera.org/problemset/10233/">سوال</td>
 <td><a href="https://gist.github.com/modos/19bca059749111590716f0febb89624c">جواب</td>  
 </tr> 
+
+<tr>
+<td>بشمار</td>
+<td>134354</td>
+<td><a href="https://quera.org/problemset/134354/">سوال</td>
+<td><a href="https://gist.github.com/modos/24d0a3d04ac174f1d8e04344f15f0377">جواب</td>  
+</tr> 
   
 
 </table>
