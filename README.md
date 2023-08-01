@@ -2043,6 +2043,13 @@
 <td><a href="https://quera.org/problemset/134354/">سوال</td>
 <td><a href="https://gist.github.com/modos/24d0a3d04ac174f1d8e04344f15f0377">جواب</td>  
 </tr> 
+
+<tr>
+<td>لیوان بازی</td>
+<td>8901</td>
+<td><a href="https://quera.org/problemset/8901/">سوال</td>
+<td><a href="https://gist.github.com/modos/c38ced73fbc65dc4137bf97351d417c3">جواب</td>  
+</tr> 
   
 
 </table>
