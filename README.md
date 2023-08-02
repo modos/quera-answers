@@ -2050,6 +2050,13 @@
 <td><a href="https://quera.org/problemset/8901/">سوال</td>
 <td><a href="https://gist.github.com/modos/c38ced73fbc65dc4137bf97351d417c3">جواب</td>  
 </tr> 
+
+<tr>
+<td>حرکت روی ظروف</td>
+<td>6375</td>
+<td><a href="https://quera.org/problemset/6375/">سوال</td>
+<td><a href="https://gist.github.com/modos/75dbeb8c5ba5de2519160cea985afb6f">جواب</td>  
+</tr> 
   
 
 </table>
