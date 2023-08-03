@@ -2059,7 +2059,7 @@
 </tr> 
 
 <tr>
-<td>حرکت روی ظروف</td>
+<td>اکبرجوجه</td>
 <td>6376</td>
 <td><a href="https://quera.org/problemset/6376/">سوال</td>
 <td><a href="https://gist.github.com/modos/31e7e7894e6b76c6cd36c8fe1a86e74e">جواب</td>  
