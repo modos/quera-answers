@@ -2071,6 +2071,13 @@
 <td><a href="https://quera.org/problemset/35254/">سوال</td>
 <td><a href="https://gist.github.com/modos/39449699b0509e929b855226cb458c6c">جواب</td>  
 </tr> 
+
+<tr>
+<td>جوج</td>
+<td>72875</td>
+<td><a href="https://quera.org/problemset/72875/">سوال</td>
+<td><a href="https://gist.github.com/modos/8d3c2ce553872d210f9cb7fc9429ee3b">جواب</td>  
+</tr> 
   
 
 </table>
