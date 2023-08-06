@@ -2084,7 +2084,14 @@
 <td>48369</td>
 <td><a href="https://quera.org/problemset/48369/">سوال</td>
 <td><a href="https://gist.github.com/modos/a2110351d23f5f7d60688efc84086381">جواب</td>  
-</tr> 
+</tr>
+
+<tr>
+<td>کِوین و قدرت شالاپ</td>
+<td>14581</td>
+<td><a href="https://quera.org/problemset/14581/">سوال</td>
+<td><a href="https://gist.github.com/modos/2a4bf4809e3a192c34457a09bc119b60">جواب</td>  
+</tr>  
   
 
 </table>
