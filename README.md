@@ -2091,7 +2091,14 @@
 <td>14581</td>
 <td><a href="https://quera.org/problemset/14581/">سوال</td>
 <td><a href="https://gist.github.com/modos/2a4bf4809e3a192c34457a09bc119b60">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>مایکل جردن</td>
+<td>193461</td>
+<td><a href="https://quera.org/problemset/193461/">سوال</td>
+<td><a href="https://gist.github.com/modos/fcde24fc2f5e34be86d6a39dd42cfb4c">جواب</td>  
+</tr>   
   
 
 </table>
