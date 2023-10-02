@@ -2102,7 +2102,7 @@
 
 <tr>
 <td>ماریو و آنلاین شاپ</td>
-<td>193461</td>
+<td>193460</td>
 <td><a href="https://quera.org/problemset/193460/">سوال</td>
 <td><a href="https://gist.github.com/modos/beaf0f70735087fa059a6e1072255f8b">جواب</td>  
 </tr>  
