@@ -2109,14 +2109,14 @@
 
 <tr>
 <td>کاسه و نخود</td>
-<td>193460</td>
+<td>197000</td>
 <td><a href="https://quera.org/problemset/197000/">سوال</td>
 <td><a href="https://gist.github.com/modos/07b30e2fb0bd5f3ebc1e220fe08ec5e5">جواب</td>  
 </tr>  
 
 <tr>
-<td>کاسه و نخود</td>
-<td>193460</td>
+<td>دوقلوهای افسانه‌ای و خرید گردنبند</td>
+<td>197002</td>
 <td><a href="https://quera.org/problemset/197002/">سوال</td>
 <td><a href="https://gist.github.com/modos/17e107bdb740ba7f4597e813b5358eaa">جواب</td>  
 </tr>    
