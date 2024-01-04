@@ -2119,7 +2119,14 @@
 <td>197002</td>
 <td><a href="https://quera.org/problemset/197002/">سوال</td>
 <td><a href="https://gist.github.com/modos/17e107bdb740ba7f4597e813b5358eaa">جواب</td>  
-</tr>    
+</tr> 
+
+<tr>
+<td>لانه کبوتری</td>
+<td>187845</td>
+<td><a href="https://quera.org/problemset/187845/">سوال</td>
+<td><a href="https://gist.github.com/modos/27b6d9fac5232148dbcd8887cd1694e9">جواب</td>  
+</tr>   
   
 
 </table>
