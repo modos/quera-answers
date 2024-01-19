@@ -2127,6 +2127,13 @@
 <td><a href="https://quera.org/problemset/187845/">سوال</td>
 <td><a href="https://gist.github.com/modos/27b6d9fac5232148dbcd8887cd1694e9">جواب</td>  
 </tr>   
+
+<tr>
+<td>قاشق و چنگال</td>
+<td>145008</td>
+<td><a href="https://quera.org/problemset/145008/">سوال</td>
+<td><a href="https://gist.github.com/modos/c1247bb4a7fb75057fcc981d58392ac2">جواب</td>  
+</tr>   
   
 
 </table>
