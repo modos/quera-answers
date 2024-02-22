@@ -2133,7 +2133,14 @@
 <td>145008</td>
 <td><a href="https://quera.org/problemset/145008/">سوال</td>
 <td><a href="https://gist.github.com/modos/c1247bb4a7fb75057fcc981d58392ac2">جواب</td>  
-</tr>   
+</tr>
+
+<tr>
+<td>کوئرا بوت‌کمپ</td>
+<td>220651</td>
+<td><a href="https://quera.org/problemset/220651/">سوال</td>
+<td><a href="https://gist.github.com/modos/7e9624bd8f87e6bf52dd978a56bcb567">جواب</td>  
+</tr>  
   
 
 </table>
