@@ -2141,6 +2141,13 @@
 <td><a href="https://quera.org/problemset/220651/">سوال</td>
 <td><a href="https://gist.github.com/modos/7e9624bd8f87e6bf52dd978a56bcb567">جواب</td>  
 </tr>  
+
+<tr>
+<td>I ❤ Mockstar</td>
+<td>182260</td>
+<td><a href="https://quera.org/problemset/182260/">سوال</td>
+<td><a href="https://gist.github.com/modos/9a05b1c3b89b192e12d936ddb952fedc">جواب</td>  
+</tr>  
   
 
 </table>
