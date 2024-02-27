@@ -2147,6 +2147,13 @@
 <td>182260</td>
 <td><a href="https://quera.org/problemset/182260/">سوال</td>
 <td><a href="https://gist.github.com/modos/9a05b1c3b89b192e12d936ddb952fedc">جواب</td>  
+</tr>
+
+<tr>
+<td>نوبار</td>
+<td>182542</td>
+<td><a href="https://quera.org/problemset/182542/">سوال</td>
+<td><a href="https://gist.github.com/modos/2565a8037fbecad5b853756410d2d625">جواب</td>  
 </tr>  
   
 
