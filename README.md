@@ -2155,6 +2155,13 @@
 <td><a href="https://quera.org/problemset/182542/">سوال</td>
 <td><a href="https://gist.github.com/modos/2565a8037fbecad5b853756410d2d625">جواب</td>  
 </tr>  
+
+<tr>
+<td>سوغات مارکوپولو</td>
+<td>188852</td>
+<td><a href="https://quera.org/problemset/188852/">سوال</td>
+<td><a href="https://gist.github.com/modos/23d47e9c364ddcf4b2622aa1bfdbb1c8">جواب</td>  
+</tr>  
   
 
 </table>
