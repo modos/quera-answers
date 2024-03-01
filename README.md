@@ -2161,7 +2161,14 @@
 <td>188852</td>
 <td><a href="https://quera.org/problemset/188852/">سوال</td>
 <td><a href="https://gist.github.com/modos/23d47e9c364ddcf4b2622aa1bfdbb1c8">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>تکرار کدکاپی</td>
+<td>127289</td>
+<td><a href="https://quera.org/problemset/127289/">سوال</td>
+<td><a href="https://gist.github.com/modos/610439b4f10907a881b0283514d6ab27">جواب</td>  
+</tr>   
   
 
 </table>
