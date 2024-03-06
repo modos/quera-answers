@@ -2169,6 +2169,13 @@
 <td><a href="https://quera.org/problemset/127289/">سوال</td>
 <td><a href="https://gist.github.com/modos/610439b4f10907a881b0283514d6ab27">جواب</td>  
 </tr>   
+
+<tr>
+<td>شش سنگ</td>
+<td>211019</td>
+<td><a href="https://quera.org/problemset/211019/">سوال</td>
+<td><a href="https://gist.github.com/modos/dd38c01bae203c1b8e87694eaed05f9b">جواب</td>  
+</tr>   
   
 
 </table>
