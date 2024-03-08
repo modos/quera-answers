@@ -2175,7 +2175,15 @@
 <td>211019</td>
 <td><a href="https://quera.org/problemset/211019/">سوال</td>
 <td><a href="https://gist.github.com/modos/dd38c01bae203c1b8e87694eaed05f9b">جواب</td>  
-</tr>   
+</tr>
+
+
+<tr>
+<td>صفحه کلید انتخابی</td>
+<td>7998</td>
+<td><a href="https://quera.org/problemset/7998/">سوال</td>
+<td><a href="https://gist.github.com/modos/3109250bdab6e4235e8357ebbf697235">جواب</td>  
+</tr>  
   
 
 </table>
