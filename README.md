@@ -2184,6 +2184,13 @@
 <td><a href="https://quera.org/problemset/7998/">سوال</td>
 <td><a href="https://gist.github.com/modos/3109250bdab6e4235e8357ebbf697235">جواب</td>  
 </tr>  
+
+<tr>
+<td>پیشگویی خر</td>
+<td>4066</td>
+<td><a href="https://quera.org/problemset/4066/">سوال</td>
+<td><a href="https://gist.github.com/modos/fdfa43c06a1ef9989819012869ed0219">جواب</td>  
+</tr>  
   
 
 </table>
