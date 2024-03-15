@@ -2205,6 +2205,13 @@
 <td><a href="https://quera.org/problemset/209104/">سوال</td>
 <td><a href="https://gist.github.com/modos/f4739b9bc272a444fe769d4d7ac97d98">جواب</td>  
 </tr>  
+
+<tr>
+<td>مار در جدول</td>
+<td>187843</td>
+<td><a href="https://quera.org/problemset/187843/">سوال</td>
+<td><a href="https://gist.github.com/modos/28d4d2849a7de6d9749e4af6ff275999">جواب</td>  
+</tr>  
   
 
 </table>
