@@ -2211,7 +2211,14 @@
 <td>187843</td>
 <td><a href="https://quera.org/problemset/187843/">سوال</td>
 <td><a href="https://gist.github.com/modos/28d4d2849a7de6d9749e4af6ff275999">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>پرگوشت</td>
+<td>72882</td>
+<td><a href="https://quera.org/problemset/72882/">سوال</td>
+<td><a href="https://gist.github.com/modos/aef29433ad481d30b5e42bedeaba6811">جواب</td>  
+</tr>   
   
 
 </table>
