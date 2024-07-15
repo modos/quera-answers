@@ -2218,7 +2218,14 @@
 <td>72882</td>
 <td><a href="https://quera.org/problemset/72882/">سوال</td>
 <td><a href="https://gist.github.com/modos/aef29433ad481d30b5e42bedeaba6811">جواب</td>  
-</tr>   
+</tr>
+
+<tr>
+<td>مثلث سرپینسکی</td>
+<td>132239</td>
+<td><a href="https://quera.org/problemset/132239/">سوال</td>
+<td><a href="https://gist.github.com/modos/d3011e342486265ba1b3176575e3b7fb">جواب</td>  
+</tr>  
   
 
 </table>
