@@ -2226,6 +2226,13 @@
 <td><a href="https://quera.org/problemset/132239/">سوال</td>
 <td><a href="https://gist.github.com/modos/d3011e342486265ba1b3176575e3b7fb">جواب</td>  
 </tr>  
+
+<tr>
+<td>درخواست‌دهنده</td>
+<td>132238</td>
+<td><a href="https://quera.org/problemset/132238/">سوال</td>
+<td><a href="https://gist.github.com/modos/0aa071278a18b759f6cd4feeebb88350">جواب</td>  
+</tr>  
   
 
 </table>
