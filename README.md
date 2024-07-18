@@ -2233,6 +2233,13 @@
 <td><a href="https://quera.org/problemset/132238/">سوال</td>
 <td><a href="https://gist.github.com/modos/0aa071278a18b759f6cd4feeebb88350">جواب</td>  
 </tr>  
+
+<tr>
+<td>هویت بمب‌گذار</td>
+<td>236450</td>
+<td><a href="https://quera.org/problemset/236450/">سوال</td>
+<td><a href="https://gist.github.com/modos/3dc8ae9e5d10d05c1c2a75769eb8d9fc">جواب</td>  
+</tr>  
   
 
 </table>
