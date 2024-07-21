@@ -2239,7 +2239,14 @@
 <td>236450</td>
 <td><a href="https://quera.org/problemset/236450/">سوال</td>
 <td><a href="https://gist.github.com/modos/3dc8ae9e5d10d05c1c2a75769eb8d9fc">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>لغت‌نامه دو حرفی</td>
+<td>237883</td>
+<td><a href="https://quera.org/problemset/237883">سوال</td>
+<td><a href="https://gist.github.com/modos/baeaee1d02045c86078035d02ec7f8aa">جواب</td>  
+</tr>   
   
 
 </table>
