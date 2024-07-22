@@ -2244,9 +2244,16 @@
 <tr>
 <td>لغت‌نامه دو حرفی</td>
 <td>237883</td>
-<td><a href="https://quera.org/problemset/237883">سوال</td>
+<td><a href="https://quera.org/problemset/237883/">سوال</td>
 <td><a href="https://gist.github.com/modos/baeaee1d02045c86078035d02ec7f8aa">جواب</td>  
-</tr>   
+</tr>
+
+<tr>
+<td>تقویم آقای جلالیان</td>
+<td>239079</td>
+<td><a href="https://quera.org/problemset/239079/">سوال</td>
+<td><a href="https://gist.github.com/modos/3c37b27c6db204440f6aa7da73fa25bc">جواب</td>  
+</tr>  
   
 
 </table>
