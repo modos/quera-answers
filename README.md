@@ -2253,7 +2253,14 @@
 <td>239079</td>
 <td><a href="https://quera.org/problemset/239079/">سوال</td>
 <td><a href="https://gist.github.com/modos/3c37b27c6db204440f6aa7da73fa25bc">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>تاس آقای جلالیان</td>
+<td>239078</td>
+<td><a href="https://quera.org/problemset/239078/">سوال</td>
+<td><a href="https://gist.github.com/modos/8f78aee1a358e3631d694e9eb99ecddc">جواب</td>  
+</tr>   
   
 
 </table>
