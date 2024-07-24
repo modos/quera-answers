@@ -2260,6 +2260,13 @@
 <td>239078</td>
 <td><a href="https://quera.org/problemset/239078/">سوال</td>
 <td><a href="https://gist.github.com/modos/8f78aee1a358e3631d694e9eb99ecddc">جواب</td>  
+</tr> 
+
+<tr>
+<td>تردستی</td>
+<td>175188</td>
+<td><a href="https://quera.org/problemset/175188/">سوال</td>
+<td><a href="https://gist.github.com/modos/2b949836d10da5efb3b0ee119d276608">جواب</td>  
 </tr>   
   
 
