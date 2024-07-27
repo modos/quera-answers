@@ -2268,6 +2268,13 @@
 <td><a href="https://quera.org/problemset/175188/">سوال</td>
 <td><a href="https://gist.github.com/modos/2b949836d10da5efb3b0ee119d276608">جواب</td>  
 </tr>   
+
+<tr>
+<td>سلام ورودی</td>
+<td>234284</td>
+<td><a href="https://quera.org/problemset/234284/">سوال</td>
+<td><a href="https://gist.github.com/modos/f2ad982f9573ccc6319af777e1e0945c">جواب</td>  
+</tr>   
   
 
 </table>
