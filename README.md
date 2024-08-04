@@ -2274,6 +2274,13 @@
 <td>234284</td>
 <td><a href="https://quera.org/problemset/234284/">سوال</td>
 <td><a href="https://gist.github.com/modos/f2ad982f9573ccc6319af777e1e0945c">جواب</td>  
+</tr> 
+
+<tr>
+<td>رنگ مکمل</td>
+<td>244098</td>
+<td><a href="https://quera.org/problemset/244098/">سوال</td>
+<td><a href="https://gist.github.com/modos/4096c26a693f3322a3f7b2985161d2b5">جواب</td>  
 </tr>   
   
 
