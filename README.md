@@ -2281,6 +2281,13 @@
 <td>244098</td>
 <td><a href="https://quera.org/problemset/244098/">سوال</td>
 <td><a href="https://gist.github.com/modos/4096c26a693f3322a3f7b2985161d2b5">جواب</td>  
+</tr> 
+
+<tr>
+<td>المپیکیوس</td>
+<td>244099</td>
+<td><a href="https://quera.org/problemset/244099/">سوال</td>
+<td><a href="https://gist.github.com/modos/516e2b4ae49e30cb5dd35a43c7f34925">جواب</td>  
 </tr>   
   
 
