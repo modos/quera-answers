@@ -4,8 +4,10 @@
 <p>اگر میخواین مشارکت داشته باشید بهم ایمیل بزنید:</p>
 <p>modos.m98@gmail.com</p>
 
-<p>گروه تلگرام:</p>
+<h3>گروه تلگرام:</h3>
 <a href="https://t.me/+vmBsaXQlVOw4ZjBk">https://t.me/+vmBsaXQlVOw4ZjBk</a>
+<br>
+<br>
 
 <table>
 <th>اسم سوال<ht/>
