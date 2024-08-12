@@ -2288,6 +2288,13 @@
 <td>244099</td>
 <td><a href="https://quera.org/problemset/244099/">سوال</td>
 <td><a href="https://gist.github.com/modos/516e2b4ae49e30cb5dd35a43c7f34925">جواب</td>  
+</tr> 
+
+<tr>
+<td>رقابت با زمان</td>
+<td>236459</td>
+<td><a href="https://quera.org/problemset/236459/">سوال</td>
+<td><a href="https://gist.github.com/modos/f43617ee508e3a1471479223474f41fc">جواب</td>  
 </tr>   
   
 
