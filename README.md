@@ -2297,6 +2297,13 @@
 <td>236459</td>
 <td><a href="https://quera.org/problemset/236459/">سوال</td>
 <td><a href="https://gist.github.com/modos/f43617ee508e3a1471479223474f41fc">جواب</td>  
+</tr>
+
+<tr>
+<td>روزهای کم‌جنایت</td>
+<td>236442</td>
+<td><a href="https://quera.org/problemset/236442/">سوال</td>
+<td><a href="https://gist.github.com/modos/acbdef84a8b91aedbe0b79c8ef1d1d05">جواب</td>  
 </tr>   
   
 
