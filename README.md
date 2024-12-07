@@ -2305,6 +2305,13 @@
 <td><a href="https://quera.org/problemset/236442/">سوال</td>
 <td><a href="https://gist.github.com/modos/acbdef84a8b91aedbe0b79c8ef1d1d05">جواب</td>  
 </tr>   
+
+<tr>
+<td>ساقه طلایی شکلاتی</td>
+<td>261557</td>
+<td><a href="https://quera.org/problemset/261557/">سوال</td>
+<td><a href="https://gist.github.com/modos/5997de16f0495a7e285e380b0acedfbc">جواب</td>  
+</tr>   
   
 
 </table>
