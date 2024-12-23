@@ -2320,6 +2320,14 @@
 <td><a href="https://quera.org/problemset/221452/">سوال</td>
 <td><a href="https://gist.github.com/modos/b8268311cddb609005ea41a7828bf71e">جواب</td>  
 </tr>   
+
+
+<tr>
+<td>ارزش سهام در روز</td>
+<td>268834</td>
+<td><a href="https://quera.org/problemset/268834/">سوال</td>
+<td><a href="https://gist.github.com/modos/d9fc00f8010a94782d42ae0ff060e70b">جواب</td>  
+</tr>   
   
 
 </table>
