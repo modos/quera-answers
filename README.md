@@ -2344,6 +2344,13 @@
 <td><a href="https://quera.org/problemset/2755/">سوال</td>
 <td><a href="https://gist.github.com/modos/9eecf5fc1f1d3b11f14994b416dd9656">جواب</td>  
 </tr>  
+
+<tr>
+<td>رشته‌ی رمزی</td>
+<td>178600</td>
+<td><a href="https://quera.org/problemset/106796/">سوال</td>
+<td><a href="https://gist.github.com/modos/3fb3fd3259edd255f76b56f19c43d639">جواب</td>  
+</tr>  
   
 
 </table>
