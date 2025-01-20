@@ -2351,6 +2351,14 @@
 <td><a href="https://quera.org/problemset/106796/">سوال</td>
 <td><a href="https://gist.github.com/modos/3fb3fd3259edd255f76b56f19c43d639">جواب</td>  
 </tr>  
+
+
+<tr>
+<td>اوقات فراغت</td>
+<td>3431</td>
+<td><a href="https://quera.org/problemset/3431/">سوال</td>
+<td><a href="https://gist.github.com/modos/b8ae4b562e58f8f39784fb0c225d2ae1">جواب</td>  
+</tr>  
   
 
 </table>
