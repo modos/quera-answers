@@ -2358,7 +2358,15 @@
 <td>3431</td>
 <td><a href="https://quera.org/problemset/3431/">سوال</td>
 <td><a href="https://gist.github.com/modos/b8ae4b562e58f8f39784fb0c225d2ae1">جواب</td>  
-</tr>  
+</tr> 
+
+
+<tr>
+<td>تکسلنگ</td>
+<td>17245</td>
+<td><a href="https://quera.org/problemset/17245/">سوال</td>
+<td><a href="https://gist.github.com/modos/e4cb679fcbaf2a79ef483fcf2729370d">جواب</td>  
+</tr>   
   
 
 </table>
