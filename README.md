@@ -2366,7 +2366,15 @@
 <td>17245</td>
 <td><a href="https://quera.org/problemset/17245/">سوال</td>
 <td><a href="https://gist.github.com/modos/e4cb679fcbaf2a79ef483fcf2729370d">جواب</td>  
-</tr>   
+</tr>  
+
+
+<tr>
+<td>چهار عدد</td>
+<td>17245</td>
+<td><a href="https://quera.org/problemset/177663/">سوال</td>
+<td><a href="https://gist.github.com/modos/0add70aa5bda2b16fb2f830f48b136a4">جواب</td>  
+</tr>    
   
 
 </table>
