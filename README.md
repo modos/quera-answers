@@ -2374,7 +2374,14 @@
 <td>17245</td>
 <td><a href="https://quera.org/problemset/177663/">سوال</td>
 <td><a href="https://gist.github.com/modos/0add70aa5bda2b16fb2f830f48b136a4">جواب</td>  
-</tr>    
+</tr> 
+
+<tr>
+<td>محاسبه</td>
+<td>52545</td>
+<td><a href="https://quera.org/problemset/177663/">سوال</td>
+<td><a href="https://gist.github.com/modos/d3a0ba3c659aeff79aa81101da78deb1">جواب</td>  
+</tr>   
   
 
 </table>
