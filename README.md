@@ -2381,7 +2381,14 @@
 <td>52545</td>
 <td><a href="https://quera.org/problemset/177663/">سوال</td>
 <td><a href="https://gist.github.com/modos/d3a0ba3c659aeff79aa81101da78deb1">جواب</td>  
-</tr>   
+</tr>
+
+<tr>
+<td>در جستجوی ترب</td>
+<td>62451</td>
+<td><a href="https://quera.org/problemset/62451/">سوال</td>
+<td><a href="https://gist.github.com/modos/a4941747e59063ff5fcf7cf843b8b8fd">جواب</td>  
+</tr>    
   
 
 </table>
