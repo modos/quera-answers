@@ -2388,7 +2388,14 @@
 <td>62451</td>
 <td><a href="https://quera.org/problemset/62451/">سوال</td>
 <td><a href="https://gist.github.com/modos/a4941747e59063ff5fcf7cf843b8b8fd">جواب</td>  
-</tr>    
+</tr>
+
+<tr>
+<td>شکلات</td>
+<td>146465</td>
+<td><a href="https://quera.org/problemset/146465/">سوال</td>
+<td><a href="https://gist.github.com/modos/f4e4214cef86dc05535069ed8c29c2b1">جواب</td>  
+</tr>   
   
 
 </table>
