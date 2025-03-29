@@ -2395,7 +2395,14 @@
 <td>146465</td>
 <td><a href="https://quera.org/problemset/146465/">سوال</td>
 <td><a href="https://gist.github.com/modos/f4e4214cef86dc05535069ed8c29c2b1">جواب</td>  
-</tr>   
+</tr>
+
+<tr>
+<td>بی‌میم ابوالفضل</td>
+<td>281772</td>
+<td><a href="https://quera.org/problemset/281772/">سوال</td>
+<td><a href="https://gist.github.com/modos/e19413b104f2be2d796e884d0d2bcf1b">جواب</td>  
+</tr>  
   
 
 </table>
