@@ -2402,7 +2402,14 @@
 <td>281772</td>
 <td><a href="https://quera.org/problemset/281772/">سوال</td>
 <td><a href="https://gist.github.com/modos/e19413b104f2be2d796e884d0d2bcf1b">جواب</td>  
-</tr>  
+</tr> 
+
+<tr>
+<td>چاپ جمع</td>
+<td>275795</td>
+<td><a href="https://quera.org/problemset/275795/">سوال</td>
+<td><a href="https://gist.github.com/modos/e75cbb0e509c193e714fb7d98f98a1b7">جواب</td>  
+</tr>    
   
 
 </table>
