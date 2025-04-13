@@ -2409,7 +2409,15 @@
 <td>275795</td>
 <td><a href="https://quera.org/problemset/275795/">سوال</td>
 <td><a href="https://gist.github.com/modos/e75cbb0e509c193e714fb7d98f98a1b7">جواب</td>  
-</tr>    
+</tr>
+
+<tr>
+<td>انتخاب رشته</td>
+<td>182276</td>
+<td><a href="https://quera.org/problemset/182276/">سوال</td>
+<td><a href="https://gist.github.com/modos/d626109c6ccd0fdfdd618d9b0db1dcf9">جواب</td>  
+</tr>   
+  
   
 
 </table>
