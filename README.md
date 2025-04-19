@@ -2416,6 +2416,13 @@
 <td>182276</td>
 <td><a href="https://quera.org/problemset/182276/">سوال</td>
 <td><a href="https://gist.github.com/modos/d626109c6ccd0fdfdd618d9b0db1dcf9">جواب</td>  
+</tr>
+
+<tr>
+<td>از دات‌نت به گولنگ</td>
+<td>244100</td>
+<td><a href="https://quera.org/problemset/244100/">سوال</td>
+<td><a href="https://gist.github.com/modos/68e6dd128a8ac2220710485f71adac16">جواب</td>  
 </tr>   
   
   
