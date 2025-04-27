@@ -2423,6 +2423,13 @@
 <td>244100</td>
 <td><a href="https://quera.org/problemset/244100/">سوال</td>
 <td><a href="https://gist.github.com/modos/68e6dd128a8ac2220710485f71adac16">جواب</td>  
+</tr>
+
+<tr>
+<td>مسئله‌ی آب</td>
+<td>6192</td>
+<td><a href="https://quera.org/problemset/6192/">سوال</td>
+<td><a href="https://gist.github.com/modos/003de22ad08c12b361429dd78688fdb7">جواب</td>  
 </tr>   
   
   
