@@ -2430,7 +2430,14 @@
 <td>6192</td>
 <td><a href="https://quera.org/problemset/6192/">سوال</td>
 <td><a href="https://gist.github.com/modos/003de22ad08c12b361429dd78688fdb7">جواب</td>  
-</tr>   
+</tr>
+
+<tr>
+<td>خانه‌ی دوست</td>
+<td>176782</td>
+<td><a href="https://quera.org/problemset/176782/">سوال</td>
+<td><a href="https://gist.github.com/modos/7cb0e238e6b5180f41874def1e9bd4cc">جواب</td>  
+</tr>  
   
   
 
