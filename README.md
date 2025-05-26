@@ -2437,7 +2437,15 @@
 <td>176782</td>
 <td><a href="https://quera.org/problemset/176782/">سوال</td>
 <td><a href="https://gist.github.com/modos/7cb0e238e6b5180f41874def1e9bd4cc">جواب</td>  
-</tr>  
+</tr>
+
+
+<tr>
+<td>شماره تلفن</td>
+<td>291610</td>
+<td><a href="https://quera.org/problemset/291610/">سوال</td>
+<td><a href="https://gist.github.com/modos/8fc440f2aab02eccfb41264023b59614">جواب</td>  
+</tr>    
   
   
 
