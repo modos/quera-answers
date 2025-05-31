@@ -2445,6 +2445,13 @@
 <td>291610</td>
 <td><a href="https://quera.org/problemset/291610/">سوال</td>
 <td><a href="https://gist.github.com/modos/8fc440f2aab02eccfb41264023b59614">جواب</td>  
+</tr>
+
+<tr>
+<td>ICPC</td>
+<td>26109</td>
+<td><a href="https://quera.org/problemset/26109/">سوال</td>
+<td><a href="https://gist.github.com/modos/fba14b80aba404fb82ddec9323377ea8">جواب</td>  
 </tr>    
   
   
