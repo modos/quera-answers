@@ -2452,7 +2452,14 @@
 <td>26109</td>
 <td><a href="https://quera.org/problemset/26109/">سوال</td>
 <td><a href="https://gist.github.com/modos/fba14b80aba404fb82ddec9323377ea8">جواب</td>  
-</tr>    
+</tr> 
+
+<tr>
+<td>Petrol</td>
+<td>82378</td>
+<td><a href="https://quera.org/problemset/82378/">سوال</td>
+<td><a href="https://gist.github.com/modos/041ab69e52349d4fae696e41fa7210b7">جواب</td>  
+</tr>   
   
   
 
