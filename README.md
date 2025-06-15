@@ -2459,7 +2459,14 @@
 <td>82378</td>
 <td><a href="https://quera.org/problemset/82378/">سوال</td>
 <td><a href="https://gist.github.com/modos/041ab69e52349d4fae696e41fa7210b7">جواب</td>  
-</tr>   
+</tr>
+
+<tr>
+<td>ریاضیات و مکافات - فصل اول</td>
+<td>252329</td>
+<td><a href="https://quera.org/problemset/252329/">سوال</td>
+<td><a href="https://gist.github.com/modos/434b835de5aa2e91f128eb8831533c99">جواب</td>  
+</tr>    
   
   
 
