@@ -2466,7 +2466,14 @@
 <td>252329</td>
 <td><a href="https://quera.org/problemset/252329/">سوال</td>
 <td><a href="https://gist.github.com/modos/434b835de5aa2e91f128eb8831533c99">جواب</td>  
-</tr>    
+</tr>
+
+<tr>
+<td>Parquet (2020)</td>
+<td>132252</td>
+<td><a href="https://quera.org/problemset/132252/">سوال</td>
+<td><a href="https://gist.github.com/modos/063f5e9df1ccbda7ac5dbeb6ab668c39">جواب</td>  
+</tr>   
   
   
 
