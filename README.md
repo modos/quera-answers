@@ -2473,6 +2473,13 @@
 <td>132252</td>
 <td><a href="https://quera.org/problemset/132252/">سوال</td>
 <td><a href="https://gist.github.com/modos/063f5e9df1ccbda7ac5dbeb6ab668c39">جواب</td>  
+</tr>
+
+<tr>
+<td>سلام DevOps</td>
+<td>129786</td>
+<td><a href="https://quera.org/problemset/129786/">سوال</td>
+<td><a href="https://gist.github.com/modos/09be4302501242b506dd845b66ce005e">جواب</td>  
 </tr>   
   
   
