@@ -2487,6 +2487,13 @@
 <td>232025</td>
 <td><a href="https://quera.org/problemset/232025/">سوال</td>
 <td><a href="https://gist.github.com/modos/a2a913fc45ffb28f6f68eecfb461e525">جواب</td>  
+</tr>
+
+<tr>
+<td>رشته‌ی خوب و رشته‌ی بد</td>
+<td>275792</td>
+<td><a href="https://quera.org/problemset/275792/">سوال</td>
+<td><a href="https://gist.github.com/modos/ce76218ff84065149f64a2700bcd9382">جواب</td>  
 </tr>   
   
   
