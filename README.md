@@ -2494,7 +2494,15 @@
 <td>275792</td>
 <td><a href="https://quera.org/problemset/275792/">سوال</td>
 <td><a href="https://gist.github.com/modos/ce76218ff84065149f64a2700bcd9382">جواب</td>  
-</tr>   
+</tr>
+
+
+<tr>
+<td>دیباگ شایسته</td>
+<td>142759</td>
+<td><a href="https://quera.org/problemset/142759/">سوال</td>
+<td><a href="https://gist.github.com/modos/34afd7dd21e93eceb6a8e79e7284332d">جواب</td>  
+</tr>     
   
   
 
