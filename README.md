@@ -2502,7 +2502,15 @@
 <td>142759</td>
 <td><a href="https://quera.org/problemset/142759/">سوال</td>
 <td><a href="https://gist.github.com/modos/34afd7dd21e93eceb6a8e79e7284332d">جواب</td>  
-</tr>     
+</tr>
+
+
+<tr>
+<td>دیوارکشی</td>
+<td>179662</td>
+<td><a href="https://quera.org/problemset/179662/">سوال</td>
+<td><a href="https://gist.github.com/modos/9205caf7541866a877d4783eccfb0e24">جواب</td>  
+</tr>  
   
   
 
