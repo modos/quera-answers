@@ -2510,7 +2510,15 @@
 <td>179662</td>
 <td><a href="https://quera.org/problemset/179662/">سوال</td>
 <td><a href="https://gist.github.com/modos/9205caf7541866a877d4783eccfb0e24">جواب</td>  
-</tr>  
+</tr>
+
+
+<tr>
+<td>بی‌عملگر</td>
+<td>251440</td>
+<td><a href="https://quera.org/problemset/251440/">سوال</td>
+<td><a href="https://gist.github.com/modos/9cca0fcaaff15f0ae0490b16f539988b">جواب</td>  
+</tr>   
   
   
 
