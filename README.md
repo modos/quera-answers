@@ -2518,6 +2518,13 @@
 <td>251440</td>
 <td><a href="https://quera.org/problemset/251440/">سوال</td>
 <td><a href="https://gist.github.com/modos/9cca0fcaaff15f0ae0490b16f539988b">جواب</td>  
+</tr>
+
+<tr>
+<td>سینما سازمانی</td>
+<td>235328</td>
+<td><a href="https://quera.org/problemset/235328/">سوال</td>
+<td><a href="https://gist.github.com/modos/ad45d81819f612233131660aca6b5495">جواب</td>  
 </tr>   
   
   
