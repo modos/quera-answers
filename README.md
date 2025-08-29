@@ -2525,6 +2525,13 @@
 <td>235328</td>
 <td><a href="https://quera.org/problemset/235328/">سوال</td>
 <td><a href="https://gist.github.com/modos/ad45d81819f612233131660aca6b5495">جواب</td>  
+</tr>
+
+<tr>
+<td>تابع تواندار</td>
+<td>304</td>
+<td><a href="https://quera.org/problemset/304/">سوال</td>
+<td><a href="https://gist.github.com/modos/e3fba8d4f8d438f6dd8ad1bb6bea74d9">جواب</td>  
 </tr>   
   
   
