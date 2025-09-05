@@ -2532,7 +2532,14 @@
 <td>304</td>
 <td><a href="https://quera.org/problemset/304/">سوال</td>
 <td><a href="https://gist.github.com/modos/e3fba8d4f8d438f6dd8ad1bb6bea74d9">جواب</td>  
-</tr>   
+</tr>
+
+<tr>
+<td>فشرده‌سازی خاص</td>
+<td>102254</td>
+<td><a href="https://quera.org/problemset/102254/">سوال</td>
+<td><a href="https://gist.github.com/modos/049b3d9a0b3f61d62889bb6245e82b2c">جواب</td>  
+</tr>    
   
   
 
