@@ -2539,6 +2539,13 @@
 <td>102254</td>
 <td><a href="https://quera.org/problemset/102254/">سوال</td>
 <td><a href="https://gist.github.com/modos/049b3d9a0b3f61d62889bb6245e82b2c">جواب</td>  
+</tr>
+
+<tr>
+<tdاختلاس</td>
+<td>177664</td>
+<td><a href="https://quera.org/problemset/177664/">سوال</td>
+<td><a href="https://gist.github.com/modos/c694f498ce7941855d2e92d4bc6bdf89">جواب</td>  
 </tr>    
   
   
