@@ -2549,7 +2549,7 @@
 </tr>
 
 <tr>
-<tdا>Micromasters</td>
+<td>Micromasters</td>
 <td>275505</td>
 <td><a href="https://quera.org/problemset/275505/">سوال</td>
 <td><a href="https://gist.github.com/modos/7244d1afe84a83add197a022be7c759c">جواب</td>  
