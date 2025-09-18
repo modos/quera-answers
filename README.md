@@ -2542,11 +2542,18 @@
 </tr>
 
 <tr>
-<tdاختلاس</td>
+<td>اختلاس</td>
 <td>177664</td>
 <td><a href="https://quera.org/problemset/177664/">سوال</td>
 <td><a href="https://gist.github.com/modos/c694f498ce7941855d2e92d4bc6bdf89">جواب</td>  
-</tr>    
+</tr>
+
+<tr>
+<tdا>Micromasters</td>
+<td>275505</td>
+<td><a href="https://quera.org/problemset/275505/">سوال</td>
+<td><a href="https://gist.github.com/modos/7244d1afe84a83add197a022be7c759c">جواب</td>  
+</tr>
   
   
 
