@@ -2554,6 +2554,14 @@
 <td><a href="https://quera.org/problemset/275505/">سوال</td>
 <td><a href="https://gist.github.com/modos/7244d1afe84a83add197a022be7c759c">جواب</td>  
 </tr>
+
+
+<tr>
+<td>شهرهای مرزی</td>
+<td>228669</td>
+<td><a href="https://quera.org/problemset/228669/">سوال</td>
+<td><a href="https://gist.github.com/modos/166795a786b922995a9121209b254180">جواب</td>  
+</tr>
   
   
 
