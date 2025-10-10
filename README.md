@@ -2558,9 +2558,16 @@
 
 <tr>
 <td>شهرهای مرزی</td>
+<td>271649</td>
+<td><a href="https://quera.org/problemset/271649/">سوال</td>
+<td><a href="https://gist.github.com/modos/166795a786b922995a9121209b254180">جواب</td>  
+</tr>
+
+<tr>
+<td>مشق مهتاب</td>
 <td>228669</td>
 <td><a href="https://quera.org/problemset/228669/">سوال</td>
-<td><a href="https://gist.github.com/modos/166795a786b922995a9121209b254180">جواب</td>  
+<td><a href="https://gist.github.com/modos/37798418be2fd83e1f3626c9409b1cf6">جواب</td>  
 </tr>
   
   
