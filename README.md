@@ -2569,6 +2569,14 @@
 <td><a href="https://quera.org/problemset/228669/">سوال</td>
 <td><a href="https://gist.github.com/modos/37798418be2fd83e1f3626c9409b1cf6">جواب</td>  
 </tr>
+
+
+<tr>
+<td>بازه‌ی آزمونی</td>
+<td>145639</td>
+<td><a href="https://quera.org/problemset/145639/">سوال</td>
+<td><a href="https://gist.github.com/modos/cc805a384c9b2166060ab26c799fd257">جواب</td>  
+</tr>
   
   
 
