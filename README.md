@@ -2577,6 +2577,13 @@
 <td><a href="https://quera.org/problemset/145639/">سوال</td>
 <td><a href="https://gist.github.com/modos/cc805a384c9b2166060ab26c799fd257">جواب</td>  
 </tr>
+
+<tr>
+<td>هفت سنگ روی عرشه</td>
+<td>234249</td>
+<td><a href="https://quera.org/problemset/234249/">سوال</td>
+<td><a href="https://gist.github.com/modos/c90533fe561d505ef39c41bc3053f393">جواب</td>  
+</tr>
   
   
 
