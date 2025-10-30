@@ -2584,6 +2584,14 @@
 <td><a href="https://quera.org/problemset/234249/">سوال</td>
 <td><a href="https://gist.github.com/modos/c90533fe561d505ef39c41bc3053f393">جواب</td>  
 </tr>
+
+
+<tr>
+<td>چوپان خسته</td>
+<td>275470</td>
+<td><a href="https://quera.org/problemset/275470/">سوال</td>
+<td><a href="https://gist.github.com/modos/cfcb7aa4cc59b285634d196303a33ffe">جواب</td>  
+</tr>
   
   
 
