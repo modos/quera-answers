@@ -2592,6 +2592,13 @@
 <td><a href="https://quera.org/problemset/275470/">سوال</td>
 <td><a href="https://gist.github.com/modos/cfcb7aa4cc59b285634d196303a33ffe">جواب</td>  
 </tr>
+
+<tr>
+<td>جناس قلب</td>
+<td>308</td>
+<td><a href="https://quera.org/problemset/308/">سوال</td>
+<td><a href="https://gist.github.com/modos/b2a2df1fa883912364dbd0b582fac587">جواب</td>  
+</tr>
   
   
 
